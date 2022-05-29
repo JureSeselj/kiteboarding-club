@@ -422,7 +422,7 @@ For code inspiration, help and advice,
 \
 &nbsp;
 
-For content and style insperation,
+For content and style inspiration,
 * [Neretva Kiteboarding](https://neretvakiteboarding.com/ "Neretva Kiteboarding")
 * [Pure Magic](https://puremagic.ie/ "Pure Magic")
 * [Kitesurfing Dublin](https://kitesurfingdublin.com/ "Kitesurfing Dublin")
