@@ -398,3 +398,20 @@ My learning has limited my use of the hamburger for smaller devices. It works ni
 \
 &nbsp;
 
+# Deployment
+
+Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+
++ Navigate to the repository on github and click 'Settings'.
++ Then select 'Pages' on the side navigation.
++ Select the 'None' dropdown, and then click 'master'.
++ Click on the 'Save' button.
++ Now the website is now live on https://sam-timmins.github.io/T4Tri-triathlon-club/
++ If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
