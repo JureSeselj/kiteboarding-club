@@ -126,4 +126,50 @@ The wireframes are below:
 \
 &nbsp;
 
+# Features
+
+## Existing Features
+
+### Navigation Bar
+
+The navigation bar is fully responsive to allow for various screen sizes. It includes links to manover around the site easily and the club logo which doubles as a link back to the home screen.
+
++ Desktop (>=992px)
+\
+&nbsp;
+    ![Navigation bar](wireframes/nav-bar-desktop.JPG)
+    -   Spanning the full width of the device and with all links (Home, About, Events, Contact) to navigate visible, this gives ease and clear use to the end user.
+
+    -   In order for the user to visably see which of the links they are hovering over there is a bar below the text.
+
+    ![Navigation bar on hover](wireframes/nav-bar-hover.JPG)
+    \
+    &nbsp;
+    -   For the user to know that a link has been clicked there is also a visual aid of the bar changing colour.
+
+    ![Navigation bar on focus](wireframes/nav-bar-focus.JPG)
+    \
+    &nbsp;
+
++ Small devices (<992px)
+\
+&nbsp;
+    - As the navigation bar would be unuseable in the desktop version on smaller devices, it takes on a hamburger style.
+
+    \
+    &nbsp;
+![Nav bar on small devices](wireframes/nav-bar-small.JPG)
+
+    - When pressed, it opens up the main menu with all the links available then.
+
+    \
+    &nbsp;
+![Nav bar on small devices expanded](wireframes/nav-bar-small-expanded.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 
