@@ -406,8 +406,26 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 + Then select 'Pages' on the side navigation.
 + Select the 'None' dropdown, and then click 'master'.
 + Click on the 'Save' button.
-+ Now the website is now live on https://sam-timmins.github.io/T4Tri-triathlon-club/
++ Now the website is now live on http.wwww
 + If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+# Credits
+
+For code inspiration, help and advice,
+* [Simen Daehlin](https://github.com/Eventyret "Simen Daehlin")
+\
+&nbsp;
+
+For content and style insperation,
+* [Neretva Kiteboarding](https://neretvakiteboarding.com/ "Neretva Kiteboarding")
+* [Pure Magic](https://puremagic.ie/ "Pure Magic")
+* [Kitesurfing Dublin](https://kitesurfingdublin.com/ "Kitesurfing Dublin")
 
 \
 &nbsp;
