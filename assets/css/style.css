@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@300&display=swap');
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-size: 1.6rem;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Oswald', serif;
+    letter-spacing: 1px;
+    font-size: 2.5rem;
+}
+
+p {
+    line-height: 1.6;
+    letter-spacing: 0.2px;
+}
+
+.section-header {
+    margin: 5rem auto;
+    font-size: 3rem;
+    text-transform: uppercase;
+    height: 5rem;
+    width: 20rem;
+    background-color: var(--dark-purple);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 10px 6px -6px var(--black);
+    color: var(--white);
+}
+
+.center-all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-align {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+#top-nav {
+    position: fixed;
+    z-index: 2000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 7.5rem;
+}
+
+.nav-bar {
+    background-color: var(--black);
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--white);
+    width: 100%;
+}
+
+.logo {
+    margin-left: 1.5rem;
+    font-size: 3rem;
+    color: var(--white);
+    font-family: 'Oswald', serif;
+    letter-spacing: 1px;
+    font-size: 2.5rem;
+}
+
+.menu-toggle {
+    margin-right: 1.5rem;
+    font-size: 3rem;
+    color: var(--white);
+}
+
+.logo:hover,
+.menu-toggle:hover {
+    color: var(--light-purple);
+    text-decoration: none;
+}
+
+.main-menu {
+    position: absolute;
+    display: none;
+    left: -20rem;
+    top: 4rem;
+    height: 100%;
+    width: 100%;
+    z-index: 999;
+}
+
+.main-menu ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+    height: 100vh;
+    width: 100%;
+    background-color: var(--light-purple);
+    top: 3.5rem;
+}
+
+.main-menu li {
+    margin: 10% auto;
+}
+
+.main-menu a {
+    display: block;
+    padding: 1em;
+    color: var(--white);
+    text-decoration: none;
+    border-bottom: 1px solid var(--dark-purple);
+    text-decoration: none;
+}
+
+.main-menu a:hover {
+    background: var(--dark-purple);
+}
+
+.main-menu {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.main-menu:target,
+.main-menu[aria-expanded="true"] {
+    display: block;
+    left: 0;
+}
+
+.main-menu:target ul,
+.main-menu[aria-expanded="true"] ul {
+    position: relative;
+    top: 4.6rem;
+    z-index: 1000;
+}
