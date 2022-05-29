@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@300&display=swap');
 
+:root {
+    --yellow: #FFFF00;
+    --blue: #01B9CC;
+    --white: white;
+    --black: #232425;
+}
+
 html {
     font-size: 62.5%;
     scroll-behavior: smooth;
@@ -38,7 +45,7 @@ p {
     text-transform: uppercase;
     height: 5rem;
     width: 20rem;
-    background-color: var(--dark-purple);
+    background-color: var(--blue);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,6 +67,53 @@ p {
     text-align: center;
 }
 
+.button {
+    width: 12rem;
+    background-color: var(--white);
+    border-top: 1px solid var(--blue);
+    border-bottom: 1px solid var(--blue);
+    border-left: none;
+    border-right: none;
+    color: var(--black);
+    padding: 1.5rem;
+    margin: 2rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    box-shadow: 0px 10px 7px -8px var(--blue);
+}
+
+.button:hover {
+    width: 14rem;
+    transition: 0.5s ease-in;
+    letter-spacing: 2px;
+    animation: button-animation;
+    animation-duration: 1s;
+    transition-timing-function: ease;
+    color: var(--blue);
+}
+
+.button:focus {
+    background-color: var(--blue);
+}
+
+@keyframes button-animation {
+    0% {
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(5deg);
+    }
+    50% {
+        transform: rotate(-5deg);
+    }
+    75% {
+        transform: rotate(5deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+    }
+
 #top-nav {
     position: fixed;
     z-index: 2000;
@@ -75,7 +129,7 @@ p {
     flex-direction: row-reverse;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid var(--white);
+    border-bottom: 1px solid var(--blue);
     width: 100%;
 }
 
@@ -83,7 +137,7 @@ p {
     margin-left: 1.5rem;
     font-size: 3rem;
     color: var(--white);
-    font-family: 'Oswald', serif;
+    font-family: 'Lato', serif;
     letter-spacing: 1px;
     font-size: 2.5rem;
 }
@@ -96,7 +150,7 @@ p {
 
 .logo:hover,
 .menu-toggle:hover {
-    color: var(--light-purple);
+    color: var(--blue);
     text-decoration: none;
 }
 
@@ -118,8 +172,9 @@ p {
     list-style: none;
     height: 100vh;
     width: 100%;
-    background-color: var(--light-purple);
+    background-color: var(--black);
     top: 3.5rem;
+    letter-spacing: 4px;
 }
 
 .main-menu li {
@@ -131,12 +186,12 @@ p {
     padding: 1em;
     color: var(--white);
     text-decoration: none;
-    border-bottom: 1px solid var(--dark-purple);
+    border-bottom: 1px solid var(--yellow);
     text-decoration: none;
 }
 
 .main-menu a:hover {
-    background: var(--dark-purple);
+    background: var(--blue);
 }
 
 .main-menu {
@@ -156,4 +211,586 @@ p {
     position: relative;
     top: 4.6rem;
     z-index: 1000;
+}
+
+#home {
+    height: 60vh;
+    width: 100%;
+    background-color: var(--blue);
+    overflow: hidden;
+}
+
+.hero-image {
+    background: url(../images/Neretva-Kiteboarding-photo-sky-view.jpeg) no-repeat center center;
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+.hero-text {
+    height: 15%;
+    width: 40%;
+    position: absolute;
+    bottom: 15%;
+    left: 10%;
+    background-color: var(--black);
+    font-size: 15rem;
+    padding: 0;
+    opacity: 0;
+    animation: hero-text;
+    animation-duration: 7s;
+    transition-timing-function: ease-in;
+    animation-fill-mode: forwards;
+    border: 1px solid var(--blue);
+}
+
+.hero-text h1 {
+    color: var(--white);
+}
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+@keyframes hero-text {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+#welcome {
+    height: 45rem;
+    width: 100%;
+    background-color: var(--white);
+    color: var(--black);
+    flex-direction: column;
+    padding: 1rem;
+}
+
+#welcome p {
+    margin: 1.5rem auto;
+    text-align: center;
+}
+
+#welcome span {
+    color: var(--blue);
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+#welcome a {
+    text-decoration: none;
+}
+
+#about {
+    width: 100%;
+    height: 120rem;
+    background-color: var(--black);
+    padding: 1rem;
+}
+
+#about h2 {
+    background-color: var(--white);
+    color: var(--blue);
+}
+
+.about-card {
+    height: 20%;
+    width: 80%;
+    border: 2px solid var(--white);
+    margin: 0.5rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about-icon {
+    font-size: 4rem;
+    color: var(--white);
+    margin: 2rem;
+    border-radius: 50%;
+}
+
+.about-card h3 {
+    font-size: 2rem;
+    color: var(--white);
+    margin: 0.5rem auto;
+}
+
+.about-card-text {
+    background-color: var(--white);
+    height: 15rem;
+    width: 100%;
+    margin: 3rem 0 0 auto;
+    padding: 0 1.5rem;
+}
+
+#events {
+    width: 100%;
+    height: 105rem;
+    background-color: var(--white);
+    padding: 1rem;
+}
+
+.events-card {
+    background-color: var(--dark-purple);
+    width: 80%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-evenly;
+    position: relative;
+    padding: 2rem;
+}
+
+.events-card h3 {
+    color: var(--white);
+    font-size: 2.5rem;
+    margin: 0.25rem auto;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.events-card p {
+    color: var(--white);
+    font-size: 1.5rem;
+    margin: auto;
+}
+
+.events-card a {
+    text-decoration: none;
+    background-color: var(--white);
+    color: var(--dark-purple);
+    height: 2.5rem;
+    width: 12rem;
+    margin: auto;
+    font-weight: 800;
+    cursor: pointer;
+    text-decoration: none;
+    height: 5rem;
+    width: 5rem;
+    font-size: 3rem;
+    box-shadow: 0px 10px 7px -8px var(--black);
+    border: 1px solid var(--black);
+}
+
+.events-card a:hover {
+    box-shadow: 0px 0px 7px 0px var(--black);
+    animation: button-animation;
+    animation-duration: 1s;
+    transition-timing-function: ease;
+}
+
+.events-icon {
+    position: absolute;
+    margin: 0.5rem;
+    font-size: 2rem;
+    background-color: var(--white);
+    color: var(--dark-purple);
+    padding: 0.5rem;
+    height: 3rem;
+    width: 3rem;
+    top: 0.5rem;
+    left: 0.5rem;
+}
+
+.athletes-swimming,
+.athletes-cycling,
+.athletes-running {
+    display: none;
+}
+
+/* 3. MEDIA QUERIES */
+
+/* 3.1 >=576px (Phone) */
+@media (min-width: 576px) {
+
+    .hero-text {
+        height: 8rem;
+        width: 15rem;
+    }
+
+    .hero-text h1 {
+        font-size: 4rem;
+    }
+}
+
+/* 3.2 >=768px (Tablet) */
+
+@media (min-width: 768px) {
+
+    /* 3.2.1 navigation */
+
+    .menu-toggle {
+        margin-right: 4rem;
+    }
+
+    .hero-text {
+        height: 10rem;
+        width: 20rem;
+    }
+
+    .hero-text h1 {
+        font-size: 5rem;
+    }
+
+    .logo h1 {
+        font-size: 4rem;
+        margin-left: 4rem;
+    }
+    /* 3.2.2 welcome section */
+
+    #welcome p {
+        margin: 3rem 7rem;
+    }
+
+    /* 3.2.3 about section */
+
+    .about-card {
+        width: 70%;
+    }
+
+    .about-card p {
+        justify-content: center;
+    }
+
+    /* 3.2.4 events section */
+
+    .events-icon {
+        font-size: 4rem;
+        left: 10%;
+        width: 8rem;
+        height: 8rem;
+        top: 5rem;
+    }
+
+    .events-card a {
+        height: 8rem;
+        width: 8rem;
+        font-size: 4rem;
+        position: absolute;
+        right: 10%;
+        top: 5.5rem;
+    }
+    /* 3.2.5 footer section */
+
+    #footer a {
+        font-size: 2rem;
+    }
+
+    #footer h4 {
+        font-size: 1.5rem;
+    }
+}
+
+/* 3.3 >=992px (large) */
+
+@media (min-width: 992px) {
+
+    /* 3.3.1 navigation bar */
+
+    .nav-bar {
+        flex-direction: row;
+    }
+
+    .menu-toggle,
+    .main-menu .menu-close {
+        display: none;
+    }
+
+    .main-menu {
+        position: relative;
+        left: auto;
+        top: auto;
+        height: 7.5rem;
+        display: block;
+        overflow: hidden;
+        width: auto;
+        color: var(--white);
+    }
+
+    .main-menu ul {
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        box-shadow: none;
+        height: 7.5rem;
+        width: auto;
+        background-color: var(--black);
+        margin-right: 4rem;
+    }
+
+    .main-menu:target ul,
+    .main-menu[aria-expanded="true"] ul {
+        top: 0;
+    }
+
+    .main-menu li {
+        margin-left: 2rem;
+    }
+
+    .logo {
+        margin-left: 2.5rem;
+        font-size: 4rem;
+    }
+
+    .main-menu a {
+        color: var(--white);
+        border: none;
+        margin-left: 4em;
+        border-bottom: 3px solid var(--black);
+    }
+
+    .main-menu a:hover {
+        background: none;
+        border-bottom: 3px solid var(--light-purple);
+        border-radius: 0;
+    }
+
+    .main-menu ul a:focus {
+        color: var(--light-purple);
+    }
+
+    /* 3.3.2 home section */
+
+    .hero-text {
+        height: 10rem;
+        width: 25rem;
+    }
+
+    .hero-text h1 {
+        font-size: 6rem;
+    }
+
+    /* 3.3.3 about section */
+
+    #about {
+        position: relative;
+        display: block;
+    }
+
+    #about h2 {
+        margin: 9rem auto 5rem auto;
+    }
+
+    .about-card-swim, .about-card-run {
+        position: absolute;
+        left: 5rem;
+    }
+
+    .about-card-bike, .about-card-social {
+        position: absolute;
+        right: 5rem;
+    }
+
+    .about-card-swim, .about-card-bike{
+        top: 25rem;
+    }
+
+    .about-card-run, .about-card-social {
+        top: 65rem;
+    }
+
+    .about-card {
+        width: 40%;
+    }
+
+    .about-header {
+        position: absolute;
+        top: 5rem;
+    }
+
+    #about {
+        height: 100rem;
+    }
+
+    /* 3.3.4 events section */
+
+    #events {
+        position: relative;
+        height: 130rem;
+    }
+
+    .events-header {
+        position: absolute;
+        top: 5rem;
+    }
+
+    .events-card {
+        width: 45%;
+        height: 20rem;
+    }
+
+    .events-card-one,
+    .events-card-two,
+    .events-card-three,
+    .events-card-four {
+        position: absolute;
+        left: 6%;
+    }
+
+    .events-card-one {
+        top: 25rem;
+    }
+
+    .events-card-two {
+        top: 50rem;
+    }
+
+    .events-card-three {
+        top: 75rem;
+    }
+
+    .events-card-four {
+        top: 100rem;
+    }
+
+    .events-icon {
+        left: 4rem;
+    }
+
+    .events-card a {
+        right: 4rem;
+    }
+
+    .athletes-swimming,
+    .athletes-cycling,
+    .athletes-running {
+        display: block;
+        position: absolute;
+        height: 25rem;
+        width: 40rem;
+        right: 6%;
+    }
+
+    .athletes-swimming {
+        top: 33rem;
+    }
+
+    .athletes-cycling {
+        top: 60rem;
+    }
+
+    .athletes-running {
+        top: 87rem;
+    }
+
+    /* 3.3.5 contact section */
+
+    #contact {
+        height: 82.5rem;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        position: relative;
+    }
+
+    .contact-header {
+        position: absolute;
+        top: 5rem;
+    }
+
+    #contact-form {
+        position: absolute;
+        width: 40%;
+        height: 50rem;
+        padding: 5rem;
+        top: 23rem;
+        left: 7%;
+    }
+
+    .contact-header {
+        position: absolute;
+        top: 5rem;
+    }
+
+    #map {
+        position: absolute;
+        height: 40rem;
+        width: 40%;
+        top: 26rem;
+        right: 7%;
+    }
+}
+
+@media (min-width: 1200px) {
+
+    /* 3.4.1 home section */
+
+    .hero-text {
+        width: 35rem;
+    }
+
+    /* 3.4.2 welcome section */
+
+    #welcome p {
+        margin: 3rem 15rem;
+    }
+
+    /* 3.4.3 about section */
+
+    .about-card {
+        width: 28rem;
+    }
+
+    #about {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        height: 60rem;
+    }
+
+    #about h2 {
+        position: absolute;
+        top: 0;
+    }
+
+    .about-card-swim,
+    .about-card-bike,
+    .about-card-run,
+    .about-card-social {
+        position: unset;
+    }
+
+    .about-card {
+        height: 30rem;
+        margin-top: 12rem;
+    }
+
+    /* 3.4.4 events section */
+
+    .athletes-swimming,
+    .athletes-cycling,
+    .athletes-running {
+        right: 10%;
+    }
+
+    .events-card-one,
+    .events-card-two,
+    .events-card-three,
+    .events-card-four {
+        left: 10%;
+    }
+
+    /* 3.4.5 contact section */
+
+    #map {
+        height: 25rem;
+        top: 32rem;
+    }
 }
