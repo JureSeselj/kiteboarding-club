@@ -358,3 +358,32 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 \
 &nbsp;
 
+# Testing
+
+I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the contact form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
+\
+&nbsp;
+
+I have encountered several issues during testing. 
+ + I initially decided to create the site with a minimum width of 992px as my largest styling, however the site just did not look right so added an x-large screen size.
+
+ + In my wireframes, I had designed to only have a 'Join Us' button on the larger screen sizes. While I was developing the site, this did not make sence. There was such a long scroll with it being a one-page site, I felt I needed to speed up the movement for someone who was instantly interested so included it on all screen sizes.
+
+ + On actual smaller devices, instead of on Chrome Developer, the main navigation menu did not show the 'Contact' link. I simply changed the styling of the links and the changed the ul to flex-start and all is now clearly visable.
+
+ + I was having issues with the navigation bar scrolling about 15px when I scrolled down on smaller devices whilst working on Chrome Developer. I lost a lot of time trying to figure out the issue, but when I tried the site on an acual device, the navigation bar stayed fixed as the code dictated. This was a bug in Chrome Developer and not with my site.
+
+ + The main navigation on smaller devices was initially set to 90vh, however on testing on a physical device, the user could see the site scrolling at the bottom if they were to slide up or down. This looked very poor and clumsy on the eye, so I adjusted it to 100vh to cover it up.
+
+ + I found that I was repeating alot of code in my style.css file in order to center items. I created a class to do this and then applied it whee needed.
+
+ + All my buttons were styled completly differently. I added an animation to all buttons so there is a continuity between them all.
+
+ + When I was validating HTML code, I had one error showing. This was in the contact form where I had a method of '#'. I was under the understanding that POST method should have been used, but when I did, it caused an error instead of going to my contact.html page. After a while I tried using GET and it worked solving my validation problem. The results of my validation for HTML and CSS are below.
+
+    - HTML (index.html) validator [results](wireframes/html-validate.JPG "W3C HTML")
+    - HTML (contact.html) validator [results](wireframes/html-contact-validate.JPG "W3C HTML")
+    - CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
+\
+&nbsp;
+
