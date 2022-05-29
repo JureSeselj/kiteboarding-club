@@ -39,3 +39,48 @@ This site gives some information about the school, basic information about kiteb
         * [Unfixed Bugs](#unfixed-bugs)
     * [Deployment](#deployment)
     * [Credits](#credits)
+
+# UX
+
+## User Goals
+* Visually appealing, including images.
+* Easily navigated around.
+* Quality and valuable content.
+* Easily found contact details.
+* Form to directly contact the club.
+
+## User Stories
+* As a user, I want to know that the school is well established.
+* As a user, I want the website to give me information about what is involved in kiteboarding.
+* As a user, I want to be able to easily contact the school.
+* As a user, I want to be able to make contact with the school via several different methods, i.e. social media.
+* As a user, I want to be able to easily navigate through the website.
+* As a user, I want to know where the school is based.
+* As a user, I want to know what events are taking place.
+
+## Site owners Goals
+* Promote the kiteboarding school.
+* Increase the number of members.
+* Increase rankings on search engines.
+
+### Requirements
+* Easy to navigate on various screen sizes.
+* Clear information on the services provided.
+* Keep the user interested with small bits of information to make them want to engage with the school.
+* Simple methods of contacting the school.
+* Visually inviting so users do not leave.
+
+### Expectations
+* I expect to know if a form has been submitted properly and if items are not filled in, to be prompted.
+* I expect all links to social media sites to be opened in a new tab.
+* I expect all navigation links to work correctly.
+* I expect screen size not to affect the quality of the website.
+* I expect all information to be correct and accurate.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+
