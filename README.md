@@ -188,4 +188,26 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 \
 &nbsp;
 
+### Welcome Section
+
++ The welcome section gives a brief introduction to the user on what KTB is and who is welcome.
+    \
+    &nbsp;
+
+    ![Welcome Section](wireframes/welcome.JPG)
+    \
+    &nbsp;
+
++ To speed up user interation, there is a *'Join Us'* button that directly links to the contact form. This button has a hover effect on it in the form of an animation to allow the user to know that it is something to be pressed.
+    \
+    &nbsp;
+
+    ![Welcome Button](wireframes/welcome-button.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 
