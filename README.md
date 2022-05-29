@@ -318,3 +318,16 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     \
     &nbsp;
 
+## Features to be Implemented
+
++ Contact form to send message to KTB instead of leading to a dummy page.
++ Links to club sponsors websites.
++ Add a shop for school clothing to be purchased.
++ Add a library of structured workouts for all activities.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
