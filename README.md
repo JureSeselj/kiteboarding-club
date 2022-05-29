@@ -270,4 +270,34 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 \
 &nbsp;
 
+### Contact Section
+
++ The contact section allows the user to quickly send a message to the KTB Kiteboarding school. it also has a map of the location of the school base.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/contact.JPG)
+    \
+    &nbsp;
+
++ The text fields are all required fields and will not alow the user to submit until they are completed, this includes a validation on the email to ensure it is in a valid format. There is also a hover effect on the submit button to give the user feedback that it is and active button.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/contact-email.JPG)
+    \
+    &nbsp;
+
++ On submission of the form, the user is bought to a page showing that their details were received.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/contact-received.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 
