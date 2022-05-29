@@ -240,4 +240,34 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 \
 &nbsp;
 
+### Events Section
+
++ This is where the most upcoming school events are shown. It includes an icon to quickly show if it is a social or a race event to the user. Also, on the larger screen sizes it includes some images to break up the screen.
+    \
+    &nbsp;
+
+    *Large device*
+
+    ![Events Section on Large Display](wireframes/events-large-device.JPG)
+    \
+    &nbsp;
+
+    *Small device*
+
+    ![Events Section on Small Display](wireframes/events-small-device.JPG)
+
+    \
+    &nbsp;
++ The date and location are also shown with the added function of a link to the directions of the event via Google Maps. There is also a label added, and animation for extra information to the user that it is a link to follow.
+    \
+    &nbsp;
+
+    ![Events Section Directions](wireframes/events-directions.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 
