@@ -83,4 +83,32 @@ This site gives some information about the school, basic information about kiteb
 \
 &nbsp;
 
+## Design Choices
+
+### Fonts
+
+### Icons
+
+### Colours
+
+
+![Colour Pallet](wireframes/new-colour-pallet.JPG)
+
+### Structure
+I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are :
+
+| Screen Size | Breakpoint |
+| ----------- | ---------- |
+| x-small     | <576px     |
+| small       | => 576px   |
+| medium      | => 768px   |
+| large       | => 992px   |
+| x-large     | => 1200px  |
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 
