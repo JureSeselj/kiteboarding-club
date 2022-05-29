@@ -111,4 +111,19 @@ I will be building my website with a mobile first mindset using the iPhone 5/SE 
 \
 &nbsp;
 
+# Wireframes
+I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframes for my website. I initially created the mobile version and then the wireframes and then scalled it up for both tablet and desktop. Because a requirement is to give little but quality information to the user to make them want to engage with the school, a one-page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
+
+The wireframes are below:
+
+### [Desktop Wireframe](wireframes/T4Tri_desktop.png "Desktop wireframe")
+### [Tablet Wireframe](wireframes/T4Tri_tablet.png "Tablet wireframe")
+### [Phone Wireframe](wireframes/T4Tri_phone.png "Phone wireframe")
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 
