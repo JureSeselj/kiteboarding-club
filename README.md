@@ -331,3 +331,9 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 \
 &nbsp;
 
+# Technologies used
+
+## Languages
+* [HTML](https://en.wikipedia.org/wiki/HTML "HTML")
+* [CSS](https://en.wikipedia.org/wiki/CSS "CSS")
+
