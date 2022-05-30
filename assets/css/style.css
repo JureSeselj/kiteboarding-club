@@ -222,6 +222,7 @@ p {
 
 .hero-image {
     background: url(../images/Neretva-Kiteboarding-photo-sky-view.jpeg) no-repeat center center;
+    margin-left: 20px;
     background-size: cover;
     height: 60vh;
     width: 100%;
@@ -303,12 +304,12 @@ p {
 }
 
 #about h2 {
-    background-color: var(--blue);
-    color: var(--white);
+    background-color: var(--white);
+    color: var(--blue);
 }
 
 .about-card {
-    height: 20%;
+    height: 60%;
     width: 80%;
     margin: 0.5rem auto;
     display: flex;
@@ -318,22 +319,22 @@ p {
 }
 
 .about-icon {
-    font-size: 4rem;
-    color: var(--white);
+    font-size: 2rem;
+    color: var(--black);
     margin: 2rem;
     border-radius: 50%;
 }
 
 .about-card h3 {
     font-size: 2rem;
-    color: var(--white);
+    color: var(--black);
     margin: 0.5rem auto;
 }
 
 .about-card-text {
     
-    height: 15rem;
-    width: 100%;
+    height: 40rem;
+    width: 120%;
     margin: 3rem 0 0 auto;
     padding: 0 1.5rem;
 }
@@ -412,6 +413,45 @@ p {
 .athletes-cycling,
 .athletes-running {
     display: none;
+}
+
+#footer {
+    width: 100%;
+    height: 10rem;
+    background-color: var(--black);
+    display: flex;
+    padding: 1rem;
+    border-top: 1px solid var(--white);
+}
+
+#social-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    margin: 2rem auto;
+}
+
+#social-links a {
+    color: var(--white);
+    text-decoration: none;
+    border: 2px solid var(--blue);
+    border-radius: 50%;
+    height: 4rem;
+    width: 4rem;
+    font-size: 2rem;
+}
+
+#social-links a:hover {
+    border-color: var(--blue);
+    background-color: var(--white);
+    color: var(--black);
+    transition: 0.5s ease-in;
+}
+
+#footer h4 {
+    font-size: 1rem;
+    color: var(--white);
 }
 
 /* 3. MEDIA QUERIES */
