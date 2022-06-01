@@ -147,13 +147,13 @@ h1, h2 {
 }
 
 #left-about {
-    padding-top: 30px;
+    padding-top: 360px;
     width: 33%;
     float: left;
 }
 
 #right-about {
-    padding-top: 30px;
+    padding-top: 360px;
     width: 33%;
     float: right;
 }
@@ -195,6 +195,37 @@ hr {
 
 #events {
     text-align: center;
-    margin: 20px 0;
+    margin: 10px 0;
     font-size: 280%;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin-left: 260px;
+    text-align: left;
+}
+
+#circle2-container {
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    float: right;
+    margin-right: -260px; 
+    display: inline-flex;   
+}
+
+#circle-cover-bg {
+    background: url('../images/580477155458668.webp') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 }
