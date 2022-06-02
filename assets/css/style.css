@@ -126,7 +126,7 @@ h1, h2 {
     width: 100%;
     color: white;
     text-align: center;
-    padding-top: 80px;
+    padding-top: 40px;
     font-size: 140%;
     flex-direction: column;
 }
@@ -140,6 +140,13 @@ h1, h2 {
     color: #01B9CC;
     font-size: 24px;
     font-weight: 800;
+}
+
+.button {
+    width: 180px;
+    height: 55px;
+    margin: 0 15px;
+    text-align: center;
 }
 
 #club-ethos {
@@ -217,7 +224,7 @@ hr {
     border-width: 1px;
     border-radius: 50%;
     margin-top: -340px;
-    margin-left: 1150px; 
+    margin-left: 1120px; 
 }
 
 #circle-cover-bg {
