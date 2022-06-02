@@ -147,6 +147,7 @@ h1, h2 {
     height: 55px;
     margin: 0 15px;
     text-align: center;
+    text-decoration: none;
 }
 
 #club-ethos {
@@ -195,7 +196,7 @@ hr {
     text-align: right;
 }
 
-#events {
+#about {
     background-color: #383838;
     text-align: center;
     margin: 10px 0;
