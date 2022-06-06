@@ -1,11 +1,11 @@
 ![Logo](wireframes/logo.JPG)
 
-# KTB Kiteboarding School
+# KTB Neretva Club
 
 # Goal for this Project
-Welcome to KTB Kiteboarding School. This school provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding a go. 
+Welcome to KTB Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding a go. 
 
-This site gives some information about the school, basic information about kiteboarding and school events to capture the eye of a potential member. It also gives the ability to make contact with the school easily through social media or directly via the contact form.
+This site gives some information about the club, basic information about kiteboarding and club events to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the contact form.
 
 ![Responsive Displays](wireframes/different-displays.JPG)
 
@@ -51,23 +51,23 @@ This site gives some information about the school, basic information about kiteb
 
 ## User Stories
 * As a user, I want to know that the school is well established.
-* As a user, I want the website to give me information about what is involved in kiteboarding.
-* As a user, I want to be able to easily contact the school.
-* As a user, I want to be able to make contact with the school via several different methods, i.e. social media.
+* As a user, I want the website to give me information about what is involved in kiteboarding and paddle boarding.
+* As a user, I want to be able to easily contact the club.
+* As a user, I want to be able to make contact with the club via several different methods, i.e. social media.
 * As a user, I want to be able to easily navigate through the website.
-* As a user, I want to know where the school is based.
+* As a user, I want to know where the club is based.
 * As a user, I want to know what events are taking place.
 
 ## Site owners Goals
-* Promote the kiteboarding school.
+* Promote the kiteboarding club.
 * Increase the number of members.
 * Increase rankings on search engines.
 
 ### Requirements
 * Easy to navigate on various screen sizes.
 * Clear information on the services provided.
-* Keep the user interested with small bits of information to make them want to engage with the school.
-* Simple methods of contacting the school.
+* Keep the user interested with small bits of information to make them want to engage with the club.
+* Simple methods of contacting the club.
 * Visually inviting so users do not leave.
 
 ### Expectations
@@ -272,7 +272,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ### Contact Section
 
-+ The contact section allows the user to quickly send a message to the KTB Kiteboarding school. it also has a map of the location of the school base.
++ The contact section allows the user to quickly send a message to the KTB Neretva club. it also has a map of the location of the club base.
     \
     &nbsp;
 
