@@ -148,6 +148,7 @@ h1, h2 {
     margin: 0 15px;
     text-align: center;
     text-decoration: none;
+    padding-top: 20px;
 }
 
 #club-ethos {
@@ -158,12 +159,15 @@ h1, h2 {
     padding-top: 400px;
     width: 36%;
     float: left;
+    font-size: 18px;
+    
 }
 
 #right-about {
     padding-top: 400px;
     width: 36%;
     float: right;
+    font-size: 18px;
 }
 
 hr {
@@ -177,7 +181,7 @@ hr {
     float: right;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .right-about-heading {
@@ -185,7 +189,7 @@ hr {
     float: left;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .right-about-heading h2 {
@@ -258,7 +262,8 @@ hr {
 
 #events div {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, .6);
+    background-color: rgba(0, 0, 0, .4);
+    font-size: 22px;
     width: 50%;
     height: 600px;
     float: left;
@@ -333,7 +338,7 @@ hr {
 
 #footer {
     width: 100%;
-    height: 150px;
+    height: 140px;
     background-color: #232425;
     display: flex;
     padding: 16px;
@@ -354,8 +359,8 @@ hr {
     border: 2px solid #01B9CC;
     border-radius: 50%;
     height: 62px;
-    width: 64px;
-    font-size: 32px;
+    width: 62px;
+    font-size: 30px;
 }
 
 #social-links a:hover {
@@ -366,6 +371,6 @@ hr {
 }
 
 #footer h4 {
-    font-size: 16px;
+    font-size: 14px;
     color: #fafafa;
 }
