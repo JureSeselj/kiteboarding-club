@@ -50,7 +50,7 @@ This site gives some information about the club, basic information about kiteboa
 * Form to directly contact the club.
 
 ## User Stories
-* As a user, I want to know that the school is well established.
+* As a user, I want to know that the club is well established.
 * As a user, I want the website to give me information about what is involved in kiteboarding and paddle boarding.
 * As a user, I want to be able to easily contact the club.
 * As a user, I want to be able to make contact with the club via several different methods, i.e. social media.
