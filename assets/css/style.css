@@ -149,8 +149,8 @@ h1, h2 {
 }
 
 .button {
-    width: 200px;
-    height: 55px;
+    width: 180px;
+    height: 50px;
     margin: 30px 15px;
     text-align: center;
     text-decoration: none;
@@ -374,18 +374,27 @@ hr {
 
 #social-links {
     width: 100%;
-    margin: 30px auto;
+    margin: 40px auto;
     display: flex;
     justify-content: space-evenly;
 }
 
 #social-links a {
+    background-color: #383838;
     color: #fafafa;
     text-decoration: none;
     border: 2px solid #01B9CC;
-    border-radius: 35%;
+    border-radius: 50%;
     width: 60px;
-    font-size: 28px;
+    height: 35px;
+    font-size: 26px;
+}
+
+#social-links a:hover {
+    border-color: #01B9CC;
+    background-color: #fafafa;
+    color: #383838;
+    transition: 0.5s ease-in;
 }
     
 
