@@ -93,9 +93,17 @@ In order to move away from the basic fonts available, I have used
 I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a hamburger for navigational links on smaller devices. All icons used will be styled and in keeping with the appearance of the website.
 
 ### Colours
+I have used [Canva](https://www.canva.com/ "canva") to help in the selection of my colour scheme. I selected the initial colour that I wanted the reast of my pallet to fit with and then used the generator to create the pallet, it can be seen [here](wireframes/colour_pallet.JPG "Generated Colour Pallet").
 
+I will explain the uses of the varius colours below, starting from top to bottom.
 
 ![Colour Pallet](wireframes/new-colour-pallet.JPG)
+
+* #232425 - This colour will be used as a background colour for sections
+* #383838 - This colour will be used as a background colour for sections titles
+* #fafafa - This colour will be used as a text colour also the icons colour
+* #01B9CC - This colour will be used as span and logo text colour also for borders and buttons
+* #FFFF00 - This colour will be used as bottom border for nav bar and some other titles
 
 ### Structure
 I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are :
