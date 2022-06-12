@@ -11,138 +11,67 @@
     <title>KTB Neretva Club</title>
 </head>
 <body>
-    <header>
-        <h1 id="logo">KTB Neretva Club</h1>
+    <section id="banner">
+        <img src="/assets/images/17821333_992076447593383_859232241_n (1).jpg" class="logo">
+        <div class="banner-text">
+            <h1>NRT Kiteboarding Club</h1>
+            <p>Our club has officially opened and we are looking forward to welcoming you on the water!</p>
+            <div class="banner-btn">
+                <a href="#"><span></span>Find Out</a>
+                <a href="#"><span></span>Read More</a>
+            </div>
+        </div>
+    </section>
+
+    <div id="sideNav">
+        <nav>
+            <ul>
+                <li a href="#">HOME</li>
+                <li a href="#">ABOUT</li>
+                <li a href="#">EVENTS</li>
+                <li a href="#">TESTIMONIALS</li>
+                <li a href="#">JOIN US</li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="menuBtn">
+        <img src="/assets/images/menu.png" id="menu">
+    </div>
+
+    <script>
+        var menuBtn = document.getElementById("menuBtn")
+        var sideNav = document.getElementById("sideNav")
+        var menu = document.getElementById("menu")
+
+        sideNav.style.right = "-250px";
+
+        menuBtn.onclick = function(){
+            if (sideNav.style.right == "-250px"){
+                sideNav.style.right = "0";
+            }
+            else {
+                sideNav.style.right = "-250px";
+            }
+        }
+    </script>
+
+<!-- ABOUT -->
+
+    <section id="about">
+        <div class="title-text">
+            <p>ABOUT</p>
+            <h1>Welcome</h1>
+        </div>
+    </section>
     
-    <nav>
-        <ul id="menu">
-            <li>
-                <a href="#contact" aria-label="Link to the home screen (opens in the same tab)">Contact</a> 
-            </li>
-            <li>
-                <a href="#events" aria-label="Link to the home screen (opens in the same tab)">Events</a> 
-            </li>
-            <li>
-                <a href="#about" aria-label="Link to the home screen (opens in the same tab)">About</a>
-            </li>
-            <li>
-                <a href="#home" aria-label="Link to the home screen (opens in the same tab)" class="active">Home</a>
-            </li>
-        </ul>
-    </nav>
-    </header>
     
-    <section id="hero-outer">
-        <div id="hero-image"></div>
-        <div id="cover-text">
-           <h2>KTB Neretva</h2>
-        </div>
-    </section>
 
-    <section id="welcome" class="center-all">
-        <h2 class="section-header">Welcome</h2>
-        <hr>
-        <p><span>KTB Neretva</span> is to share with you our passion for Watersports.<br> Our company is much more than just a sport, a culture or a lifestyle.<br> When you enter KTB Neretva, your Life will change!<br> Whatever your needs, from taking lessons in kiting or Stand Up Paddle boarding,<br> from total beginner to most advanced rider, from buying the latest gear and equipment to organizing an<br> afternoon activity with your mates, we’re here to answer all your questions and give you an unforgettable and unique experience.</p>
-        <a href="#contact" aria-label="scrolls down to contact form" class="button center-all">Join Us</a>
-    </section>
+    
 
-    <section id="club-ethos">
-        <h2 id="about">About</h2>
-        <div id="left-about">
-            <div class="left-about-heading">
-                <h2>Kitesurfing</h2>
-                <hr>
-                <p>Come and learn the best sport in the whole world, Kitesurfing will give you wings, are you ready to Fly? It is the most incredible sensation and one of the most accessible and impressive water-sports to learn. Croatia is one of the best place in the world to do it! All you need is wind, long beaches and thats all!</p>
-            </div>
-        </div>
-            <div id="right-about">
-                <div class="right-about-heading">
-                    <h2>Paddle Boarding</h2>
-                    <hr>
-                    <p>No matter whether you are young or old, there is no age limit for stand up paddle boarding; even your dog can take a ride. SUP is a great way to discover the natural beauty of your surroundings, from catching waves to one of our scenic cruises, there is no where you can't go on a stand up paddle.</p>
-                </div>
-            </div>
+   
 
-            <div id="top-left-about">
-                <div id="circle-container">
-                    <div id="circle-cover-bg"></div>
-                </div>
-            </div>
-            <div id="top-right-about">
-                <div id="circle2-container2">
-                    <div id="circle2-cover-bg"></div>
-                </div>
-            </div>
-    </section>
-
-    <section id="events">
-        <h2 id="event-title">Events</h2>
-        <div>
-            <h2>Croatia Neretva Wave Regatta 2022</h2>
-            <br>
-            <h3>6th and 9th of July</h3>
-            <br>
-            <h3>Usce Neretve - Opuzen</h3>
-            <br>
-            <h3>14:30</h3>
-        </div>
-        <div>
-            <h2>Zen-Zen Kitesurfing Festival</h2>
-            <br>
-            <h3>5th and 7th of August</h3>
-            <br>
-            <h3>Usce Neretve - Opuzen</h3>
-            <br>
-            <h3>11:30</h3>
-        </div>
-    </section>
-
-    <section class="form-section">
-        <h1>Contact</h1>
-        <form method="get" action="contact.html" class="signup-form">
-            <h2>Let's get you signed up!</h2>
-            
-            <label for="fname">First Name</label>
-            <input id="fname" name="first_name" type="text" class="text-input" required>
-            
-            <label for="lname">Last Name</label>
-            <input id="lname" name="last_name" type="text" class="text-input" required>
-            
-            <label for="email">Email Address</label>
-            <input type="email" id="email" name="email_address" class="text-input" required>
-            
-            <label for="road">Kitesurfing</label>
-            <input type="radio" id="road" name="running_preference" value="road" required>
-            
-            <label for="trail">Paddle Boarding</label>
-            <input type="radio" id="trail" name="running_preference" value="trail" required>
-            
-            <input class="join-button" type="submit" value="Sign Up!">
-        </form>
-        <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11667.87024409818!2d17.4385676928935!3d43.02106995636796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134ba844b2ef2357%3A0x290b19d014e8d44d!2zVcWhxIdlIE5lcmV0dmU!5e0!3m2!1sen!2sie!4v1654966312576!5m2!1sen!2sie" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </section>
-
-    <footer id="footer" class="section-align">
-        <div id="social-links">
-            <a class="center-all" href="https://facebook.com/" target="_blank" rel="noopener" aria-label="Link to KTB Neretva facebook page (opens in a new tab)">  
-                    <i class="fab fa-facebook-f"></i>
-            </a>
-
-            <a class="center-all" href="https://twitter.com" target="_blank" rel="noopener" aria-label="Link to KTB Neretva twitter page (opens in a new tab)">
-                <i class="fab fa-twitter center-all"></i>
-            </a>
-
-            <a class="center-all" href="https://instagram.com" target="_blank" rel="noopener" aria-label="Link to KTB Neretva instagram page (opens in a new tab)">
-                    <i class="fab fa-instagram center-all"></i>
-            </a>
-
-            <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Link to KTB Neretva YouTube page (opens in a new tab)">
-                <i class="fa-brands fa-youtube-square"></i>
-            </a>
-        </div>
-
-        <h4>KTB Neretva Club <i class="far fa-copyright"></i> Croatia 2022</h4>
-    </footer>
+   
 
     <script src="https://kit.fontawesome.com/4131544325.js" crossorigin="anonymous"></script>
 </body>
