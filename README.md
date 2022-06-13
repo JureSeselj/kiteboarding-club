@@ -1,9 +1,9 @@
 ![Logo](wireframes/logo.JPG)
 
-# KTB Neretva Club
+# NRT Kiteboarding Club
 
 # Goal for this Project
-Welcome to KTB Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding a go. 
+Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding a go. 
 
 This site gives some information about the club, basic information about kiteboarding and club events to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the contact form.
 
@@ -90,7 +90,7 @@ In order to move away from the basic fonts available, I have used
 [Google Fonts](https://fonts.google.com/ "Google Fonts") to find a text that best suits the feel of the website. For the main text I have chosen [Lato](https://fonts.google.com/specimen/Lato?query=lato "Lato font") as I feel it is has a sharp, simple and easy to read look. To make the headers and the navigation bar stand out form the text, I decided to use [Oswald](https://fonts.google.com/specimen/Oswald?query=osw "Oswald font"). This font is complimentary to Lato but gives clear definition between text and headers.
 
 ### Icons
-I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a hamburger for navigational links on smaller devices. All icons used will be styled and in keeping with the appearance of the website.
+I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a hamburger for navigational links on all devices. All icons used will be styled and in keeping with the appearance of the website.
 
 ### Colours
 I have used [Canva](https://www.canva.com/ "canva") to help in the selection of my colour scheme. I selected the initial colour that I wanted the reast of my pallet to fit with and then used the generator to create the pallet, it can be seen [here](wireframes/colour_pallet.JPG "Generated Colour Pallet").
@@ -143,7 +143,7 @@ The wireframes are below:
 
 ### Navigation Bar
 
-The navigation bar is fully responsive to allow for various screen sizes. It includes links to manover around the site easily and the club logo which doubles as a link back to the home screen.
+The navigation bar is position vertical with hamburger icon and fully responsive to allow for various screen sizes. It includes links to manover around the site easily.
 
 + Desktop (>=992px)
 \
@@ -201,7 +201,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ### Welcome Section
 
-+ The welcome section gives a brief introduction to the user on what KTB is and who is welcome.
++ The welcome section gives a brief introduction to the user on what NRT Kiteboarding Club is and who is welcome.
     \
     &nbsp;
 
@@ -283,7 +283,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ### Contact Section
 
-+ The contact section allows the user to quickly send a message to the KTB Neretva club. it also has a map of the location of the club base.
++ The contact section allows the user to quickly send a message to the NRT Kiteboarding Club. it also has a map of the location of the club base.
     \
     &nbsp;
 
@@ -331,7 +331,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ## Features to be Implemented
 
-+ Contact form to send message to KTB instead of leading to a dummy page.
++ Contact form to send message to NRT Kiteboarding Club instead of leading to a dummy page.
 + Links to club sponsors websites.
 + Add a shop for school clothing to be purchased.
 + Add a library of structured workouts for all activities.
