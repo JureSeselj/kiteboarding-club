@@ -3,9 +3,9 @@
 # NRT Kiteboarding Club
 
 # Goal for this Project
-Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding a go. 
+Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. 
 
-This site gives some information about the club, basic information about kiteboarding and club events to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the contact form.
+This site gives some information about the club, basic information about kiteboarding or paddle boarding and club events to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the contact form.
 
 ![Responsive Displays](wireframes/different-displays.JPG)
 
@@ -57,9 +57,11 @@ This site gives some information about the club, basic information about kiteboa
 * As a user, I want to be able to easily navigate through the website.
 * As a user, I want to know where the club is based.
 * As a user, I want to know what events are taking place.
+* As a user, I want to know what other people think about the club.
 
 ## Site owners Goals
-* Promote the kiteboarding club.
+* Promote the kiteboarding club and water sport activity.
+* Promote Croatia and area where the club is based.
 * Increase the number of members.
 * Increase rankings on search engines.
 
@@ -186,8 +188,8 @@ The navigation bar is position vertical with hamburger icon and fully responsive
 ### Landing Page
 
 + The landing page image
-    - The image gives the user instant knowledge of what is involved in the school, and with added animation draws their eye to the site.
-    - The text gives instant information to the user on what the school is. With the added animation of fading in slightly behind the image, it makes the user keep interest. 
+    - The image gives the user instant knowledge of what is involved in the club, and with added animation draws their eye to the site.
+    - The text gives instant information to the user on what the club is. With the added animation of fading in slightly behind the image, it makes the user keep interest. 
     \
     &nbsp;
 
