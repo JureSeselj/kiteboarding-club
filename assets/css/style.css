@@ -113,16 +113,16 @@ nav ul li a {
 
 @media screen and (max-width: 770px) {
     .logo {
-        width: 120px;
+        width: 100px;
         position: absolute;
         top: 2%;
         left: 2%;
     }
     .banner-text h1 {
-        font-size: 48px;
+        font-size: 44px;
     }
     .banner-text p {
-        font-size: 16px;
+        font-size: 18px;
     }
     .banner-btn a {
         display: block;
@@ -188,7 +188,7 @@ nav ul li a {
 }
 
 .features-img img {
-    width: 90%;
+    width: 100%;
     border-radius: 10px;
     
 }
@@ -203,7 +203,7 @@ nav ul li a {
 .features-desc {
     display: flex;
     align-items: center;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 }
 
 .feature-icon {
@@ -220,4 +220,16 @@ nav ul li a {
     color: #050833;
     padding: 0 20px;
     text-align: initial;
+}
+
+@media screen and (max-width: 770px) {
+    .title-text h1 {
+        font-size: 45px;
+    }
+    .features {
+        flex-basis: 100%;
+    }
+    .features-img {
+        flex-basis: 100%;
+    }
 }
