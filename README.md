@@ -102,9 +102,9 @@ I will explain the uses of the varius colours below, starting from top to bottom
 ![Colour Pallet]
 
 * #050833 - This colour will be used as a text colour also for the icons colour.
-* #75E6DA - This colour will be used as a logo colour and hamburger icon nav bar background colour.
-* #fafafa - This colour will be used as background colour for features section.
-* #D8E1E7 - This colour will be used as background colour for events section.
+* #75E6DA - This colour will be used as a logo colour and nav bar icon background colour.
+* #fafafa - This colour will be used as background colour for features and about section.
+* #efefef - This colour will be used as background colour for events and contact section.
 
 
 ### Structure

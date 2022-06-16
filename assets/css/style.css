@@ -130,7 +130,7 @@ nav ul li a {
     }
 }
 
-/* ABOUT */
+/* FEATURES */
 
 #feature {
     width: 100%;
@@ -232,4 +232,12 @@ nav ul li a {
     .features-img {
         flex-basis: 100%;
     }
+}
+
+/* EVENTS */
+
+#events {
+    width: 100%;
+    padding: 70px 0;
+    background: #efefef;
 }
