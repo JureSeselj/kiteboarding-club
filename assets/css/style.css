@@ -241,3 +241,19 @@ nav ul li a {
     padding: 70px 0;
     background: #efefef;
 }
+
+.events-box {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.single-events {
+    flex-basis: 48%;
+    text-align: center;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    color: #fafafa;
+}
