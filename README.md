@@ -5,7 +5,7 @@
 # Goal for this Project
 Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. 
 
-This site gives some information about the club, stuf, basic information about kiteboarding, paddle boarding price and club events to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the contact form.
+This site gives some information about the club, stuf, events, basic information about kiteboarding and paddle boarding prices to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the contact form.
 
 ![Responsive Displays]
 
@@ -51,7 +51,7 @@ This site gives some information about the club, stuf, basic information about k
 
 ## User Stories
 * As a user, I want to know that the club is well established.
-* As a user, I want the website to give me information about what is the coast for kiteboarding or paddle boarding courses.
+* As a user, I want the website to give me information about the price for kiteboarding or paddle boarding courses.
 * As a user, I want to be able to easily contact the club.
 * As a user, I want to be able to make contact with the club via several different methods, i.e. social media.
 * As a user, I want to be able to easily navigate through the website.
@@ -92,7 +92,7 @@ In order to move away from the basic fonts available, I have used
 [Google Fonts](https://fonts.google.com/ "Google Fonts") to find a text that best suits the feel of the website. For the main text I have chosen [Lato](https://fonts.google.com/specimen/Lato?query=lato "Lato font") as I feel it is has a sharp, simple and easy to read look. To make the headers and the navigation bar stand out form the text, I decided to use [Oswald](https://fonts.google.com/specimen/Oswald?query=osw "Oswald font"). This font is complimentary to Lato but gives clear definition between text and headers.
 
 ### Icons
-I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a hamburger for navigations links on all devices. All icons used will be styled and in keeping with the appearance of the website.
+I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a nav bar icon links on all devices. All icons used will be styled and in keeping with the appearance of the website.
 
 ### Colours
 I have used [Canva](https://www.canva.com/ "canva") to help in the selection of my colour scheme. I selected the initial colour that I wanted the reast of my pallet to fit with and then used the generator to create the pallet, it can be seen [here](wireframes/colour_pallet.JPG "Generated Colour Pallet").
@@ -144,7 +144,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Banner Page](wireframes/landing-page.JPG)
+    ![Banner Page]
 
 \
 &nbsp;
@@ -156,7 +156,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Features Section](wireframes/welcome.JPG)
+    ![Features Section]
     \
     &nbsp;
 
@@ -164,7 +164,8 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Welcome Button](wireframes/welcome-button.JPG)
+    ![Find Out Button]
+    ![Join Us Button]
 
 \
 &nbsp;
@@ -224,7 +225,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Events Section Directions](wireframes/events-directions.JPG)
+    ![Events Section Directions]
 
 \
 &nbsp;
@@ -234,7 +235,11 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 ### About Section
 
-+ The about section gives a brief description of the kiteboarding club
++ The about section gives a brief description of the kiteboarding and paddle boarding with images
+\
+    &nbsp;
+
+    ![About Section]
 
 ### Contact Section
 
@@ -242,7 +247,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Contact Section](wireframes/contact.JPG)
+    ![Contact Section]
     \
     &nbsp;
 
@@ -250,7 +255,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Contact Section](wireframes/contact-email.JPG)
+    ![Contact Section]
     \
     &nbsp;
 
@@ -258,7 +263,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Contact Section](wireframes/contact-received.JPG)
+    ![Contact Section]
 
 \
 &nbsp;
@@ -268,11 +273,11 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 ### Footer
 
-+ The footer contains the social media links related to NRT and the copyright text. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to 's site.
++ The footer contains the social media links, contact number, address, email related to NRT and the copyright text. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to 's site.
     \
     &nbsp;
 
-    ![Contact Section](wireframes/footer.JPG)
+    ![Contact Section]
     \
     &nbsp;
 
@@ -280,7 +285,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Contact Section](wireframes/footer-hover.JPG)
+    ![Contact Section]
     \
     &nbsp;
 
@@ -288,7 +293,8 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 + Contact form to send message to NRT Kiteboarding Club instead of leading to a dummy page.
 + Links to club sponsors websites.
-+ Add a shop for school clothing to be purchased.
++ Add a close icon to nav bar.
++ Add a shop for club clothing to be purchased.
 + Add a library of structured workouts for all activities.
 
 \
@@ -309,8 +315,6 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 ## Tools
 * [Gitpod](https://www.gitpod.io/ "Gitpod")
-* [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML")
-* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS")
 * [Canva](https://www.canva.com/ "canva")
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
