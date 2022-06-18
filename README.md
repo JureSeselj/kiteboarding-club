@@ -1,6 +1,6 @@
 ![Logo]
 
-# NRT Kiteboarding Club
+# NRT Club
 
 # Goal for this Project
 Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. 
