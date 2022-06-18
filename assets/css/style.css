@@ -364,6 +364,7 @@ hr {
 #footer {
     padding: 10rem 0 2rem;
     background: #efefef;
+    position: relative;
 }
 
 .footer-row {
@@ -392,4 +393,18 @@ hr {
 .footer-row p {
     line-height: 3.5rem;
     font-size: 1.8rem;
+}
+
+.footer-left i, .footer-right i {
+    font-size: 1.8rem;
+    color: #735E93;
+}
+
+.footer-img {
+    max-width: 37rem;
+    opacity: 0.1;
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
 }
