@@ -132,11 +132,31 @@ nav ul li a {
     }
 }
 
+/* ABOUT US */
+
+#about-us {
+    width: 100%;
+    padding: 7rem 0;
+}
+
+.center-all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-text h3 {
+    font-size: 2.4rem;
+    padding: 3rem 0;
+    font-family: 'Lato' sans-serif;
+}
+
 /* FEATURES */
 
 #feature {
     width: 100%;
     padding: 7rem 0;
+    background: #efefef;
 }
 
 .title-text {
@@ -248,7 +268,6 @@ nav ul li a {
 #events {
     width: 100%;
     padding: 7rem 0;
-    background: #efefef;
 }
 
 .events-box {
