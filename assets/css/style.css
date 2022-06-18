@@ -258,7 +258,7 @@ nav ul li a {
 .single-events {
     flex-basis: 48%;
     text-align: center;
-    border-radius: 7px;
+    border-radius: .7rem;
     margin-bottom: 2rem;
     color: #fafafa;
     position: relative;
@@ -266,5 +266,5 @@ nav ul li a {
 
 .single-events img {
     width: 100%;
-    border-radius: 8px;
+    border-radius: .8rem;
 }
