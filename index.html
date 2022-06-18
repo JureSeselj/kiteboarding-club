@@ -17,8 +17,8 @@
             <h1>NRT Kiteboarding Club</h1>
             <p>Our club has officially opened and we are looking forward to welcoming you on the water!</p>
             <div class="banner-btn">
-                <a href="#"><span></span>Find Out</a>
-                <a href="#"><span></span>Join Us</a>
+                <a href="#">Find Out</a>
+                <a href="#">Join Us</a>
             </div>
         </div>
     </section>
@@ -26,11 +26,21 @@
     <div id="sideNav">
         <nav>
             <ul>
-                <li a href="#">HOME</li>
-                <li a href="#">FEATURES</li>
-                <li a href="#">EVENTS</li>
-                <li a href="#">ABOUT</li>
-                <li a href="#">CONTACT</li>
+                <li> 
+                    <a href="#">HOME</a>
+                </li>
+                <li> 
+                    <a href="#">FEATURES</a>
+                </li>
+                <li> 
+                    <a href="#">EVENTS</a>
+                </li>
+                <li 
+                    <a href="#">ABOUT</a>
+                </li>
+                <li>
+                    <a href="#">CONTACT
+                </li>
             </ul>
         </nav>
     </div>
@@ -38,23 +48,6 @@
     <div id="menuBtn">
         <img src="/assets/images/menu.png" id="menu">
     </div>
-
-    <script>
-        var menuBtn = document.getElementById("menuBtn")
-        var sideNav = document.getElementById("sideNav")
-        var menu = document.getElementById("menu")
-
-        sideNav.style.right = "-250px";
-
-        menuBtn.onclick = function(){
-            if (sideNav.style.right == "-250px"){
-                sideNav.style.right = "0";
-            }
-            else {
-                sideNav.style.right = "-250px";
-            }
-        }
-    </script>
 
 <!-- FEATURES -->
 
@@ -143,5 +136,6 @@
    
 
     <script src="https://kit.fontawesome.com/4131544325.js" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
 </body>
 </html>
