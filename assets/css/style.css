@@ -408,3 +408,12 @@ hr {
     top: 35%;
     transform: translate(-50%, -50%);
 }
+
+#map {
+    height: 16rem;
+    width: 35%;
+    margin-top: 1rem auto;
+    margin-left: 55rem;
+    border: 1px solid #050833;
+    
+}
