@@ -11,7 +11,7 @@ html {
 }
 
 #banner {
-    background: url(../images/Neretva-Kiteboarding-photo-sky-view.jpeg);
+    background: url(../images/Banner-sky-view.jpeg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -99,20 +99,18 @@ nav ul li a {
 #menuBtn {
     width: 5rem;
     height: 5rem;
-    background: #75E6DA;
     text-align: center;
     position: fixed;
     right: 3rem;
     top: 2rem;
-    border: 2px solid #050833;
-    border-radius: 4px;
     z-index: 3;
     cursor: pointer;
 }
 
-#menuBtn img {
-    width: 2rem;
+#menuBtn #menu {
+    width: 4rem;
     margin-top: 1.5rem;
+    font-size: 3rem;
 }
 
 @media screen and (max-width: 770px) {
@@ -143,6 +141,7 @@ nav ul li a {
 
 .title-text {
     text-align: center;
+    text-decoration: none;
     padding-bottom: 7rem;
 }
 
@@ -154,6 +153,7 @@ nav ul li a {
     position: relative;
     z-index: 1;
     display: inline-block;
+    text-decoration: none;
 }
 
 .title-text p::after {
@@ -171,6 +171,7 @@ nav ul li a {
 .title-text h1 {
     font-size: 6rem;
     color: #050833;
+    text-decoration: none;
 }
 
 .feature-box {
