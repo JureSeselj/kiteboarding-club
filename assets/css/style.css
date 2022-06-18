@@ -32,7 +32,7 @@ html {
 }
 
 .banner-text h1 {
-    font-size: 10rem;
+    font-size: 12rem;
     font-family: 'Lato', sans-serif;
 }
 
@@ -145,10 +145,9 @@ nav ul li a {
     align-items: center;
 }
 
-.title-text h3 {
+.center-all h3 {
     font-size: 2.4rem;
-    padding: 3rem 0;
-    font-family: 'Lato' sans-serif;
+    padding: 4rem 0;
 }
 
 /* FEATURES */
