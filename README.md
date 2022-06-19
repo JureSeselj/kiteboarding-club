@@ -1,4 +1,4 @@
-![Logo]
+![Logo](assets/images/logo%2002%20purple.jpg)
 
 # NRT Club
 
