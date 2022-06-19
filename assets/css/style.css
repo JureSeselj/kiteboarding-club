@@ -11,8 +11,10 @@ html {
     padding: 0;
 }
 
+/*--BANNER PAGE--*/
+
 #banner {
-    background: url(../images/Banner-sky-view.jpeg);
+    background: url(../images/banner-photo.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -159,6 +161,7 @@ nav ul li a {
     font-size: 2.4rem;
     padding: 4rem 0;
     font-family: 'Barlow', sans-serif;
+    color: #735E93;
 }
 
 .center-all p {
