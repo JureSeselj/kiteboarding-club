@@ -151,9 +151,17 @@ nav ul li a {
     align-items: center;
 }
 
+.center-all h1 {
+    font-family: 'Rubik', sans-serif; 
+}
+
 .center-all h3 {
     font-size: 2.4rem;
     padding: 4rem 0;
+    font-family: 'Barlow', sans-serif;
+}
+
+.center-all p {
     font-family: 'Barlow', sans-serif;
 }
 
