@@ -60,7 +60,7 @@ html {
     margin: 0 1rem;
     padding: 1.2rem 0;
     color: #050833;
-    border: 1px solid #050833;
+    border: 1.4px solid #050833;
     border-radius: .4rem;
     position: relative;
     z-index: 1;
@@ -105,7 +105,7 @@ nav ul li a {
     text-decoration: none;
     color: #050833;
     font-family: 'Rubik', sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
 }
 
 #menuBtn {
@@ -122,7 +122,7 @@ nav ul li a {
 #menuBtn #menu {
     width: 4rem;
     margin-top: 1.5rem;
-    font-size: 3rem;
+    font-size: 3.4rem;
 }
 
 @media screen and (max-width: 770px) {
@@ -462,7 +462,7 @@ hr {
 }
 
 #social-links a {
-    color: #050833;
+    color: #735E93;
     text-decoration: none;
     border: 1.6px solid #050833;
     border-radius: 50%;
@@ -472,9 +472,9 @@ hr {
 }
 
 #social-links a:hover {
-    border-color: #050833;
-    background-color: #75E6DA;
-    color: #050833;
+    border-color: #735E93;
+    background-color: #735E93;
+    color: #fafafa;
     transition: 0.4s ease-in;
 }
 
