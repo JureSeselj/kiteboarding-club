@@ -462,7 +462,7 @@ hr {
 #social-links a {
     color: #050833;
     text-decoration: none;
-    border: 2px solid #050833;
+    border: 1.6px solid #050833;
     border-radius: 50%;
     height: 4rem;
     width: 4rem;
@@ -472,8 +472,8 @@ hr {
 #social-links a:hover {
     border-color: #050833;
     background-color: #75E6DA;
-    color: #fafafa;
-    transition: 0.5s ease-in;
+    color: #050833;
+    transition: 0.4s ease-in;
 }
 
 #footer h4 {
@@ -488,7 +488,7 @@ hr {
 .form-text {
     text-align: center;
     color: #050833;
-    padding-top: 6rem;
+    padding-top: 4rem;
 }
 
 .form-text h1 {
@@ -497,7 +497,7 @@ hr {
 }
 
 .form-text p {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-style: italic;
     font-family: 'Barlow', sans-serif;
 }
@@ -511,10 +511,10 @@ hr {
 }
 
 .signup-form {
-    margin: 10rem 10% 0 0;
+    margin: 6rem 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width: 40rem;
+    max-width: 42rem;
     position: absolute;
     left: 20%;
     padding: 4rem;
@@ -527,7 +527,13 @@ hr {
     color: #fafafa;
     margin-bottom: 2rem;
     font-family: 'Rubik', sans-serif;
-    font-size: 2.8rem;
+    font-size: 3rem;
+}
+
+.signup-form label {
+    font-family: 'Barlow', sans-serif;
+    font-size: 1.4rem;
+    font-weight: bolder;
 }
 
 .text-input {
@@ -546,16 +552,19 @@ hr {
 
 .join-button {
     margin-top: 2rem;
-    border-radius: 2px;
+    border-radius: 4px;
     padding: 1.5rem 3.2rem;
     text-align: center;
-    font-size: 100%;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.4rem;
     background-color: #75E6DA;
-    color: #fafafa;
+    color: #050833;
     display: block;
+    cursor: pointer;
 }
 
 .join-button:hover {
-    background-color: #fafafa;
-    color: #050833;
+    background-color: #735E93;
+    color: #fafafa;
+    transition: 0.4s ease-in;
 }
