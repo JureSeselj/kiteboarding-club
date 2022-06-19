@@ -18,6 +18,7 @@ html {
     background-size: cover;
     background-position: center;
     height: 100vh;
+    padding: 6rem;
 }
 
 .logo {
@@ -60,6 +61,7 @@ html {
     padding: 1.2rem 0;
     color: #050833;
     border: 1px solid #050833;
+    border-radius: .4rem;
     position: relative;
     z-index: 1;
 }
@@ -69,6 +71,7 @@ html {
     height: 100%;
     position: absolute;
     background: #75E6DA;
+    border-radius: .4rem;
     top: 0;
     left: 0;
     z-index: -1;
@@ -77,6 +80,7 @@ html {
 
 .banner-btn a:hover span {
     width: 100%;
+    border-radius: .4rem;
 }
 
 #sideNav {
@@ -243,7 +247,7 @@ nav ul li a {
     font-family: 'Rubik', sans-serif;
     font-weight: 100;
     font-size: 2.6rem;
-    color: #735E93;
+    color: #050833;
 }
 
 .features-desc {
@@ -257,13 +261,11 @@ nav ul li a {
     height: 5rem;
     font-size: 3rem;
     line-height: 5rem;
-    border-radius: .8rem;
     color: #735E93;
-    border: 1px solid #735E93;
 }
 
 .feature-text p {
-    color: #050833;
+    color: #735E93;
     padding: 0 2rem;
     text-align: initial;
     font-size: 1.6rem;
