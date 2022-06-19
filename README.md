@@ -5,7 +5,7 @@
 # Goal for this Project
 Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. 
 
-This site gives some information about the club, stuf, events, basic information about kiteboarding and paddle boarding prices to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the contact form.
+This site gives some information about the club, stuf, events, basic information about kiteboarding and paddle boarding prices to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the Sign Up form.
 
 ![Responsive Displays]
 
@@ -22,12 +22,12 @@ This site gives some information about the club, stuf, events, basic information
         * [Icons](#icons)
         * [Colours](#colours)
         * [Structure](#structure)
-    * [Wireframes](#wireframes)
     * [Features](#features)
         * [Existing Features](#existing-features)
-            * [Navigation Bar](#navigation-bar)
-            * [Landing Page](#landing-page)
-            * [About Section](#about-section)
+            * [Vertical Navigation Bar](#vertical-navigation-bar)
+            * [Banner Page](#banner-page)
+            * [About Us Section](#about-us-section)
+            * [Features Section](#features-section)
             * [Events Section](#events-section)
             * [Contact Section](#contact-section)
             * [Footer](#footer)
@@ -57,7 +57,7 @@ This site gives some information about the club, stuf, events, basic information
 * As a user, I want to be able to easily navigate through the website.
 * As a user, I want to know where the club is based.
 * As a user, I want to know what events are taking place.
-* As a user, I want to know what other people think about the club.
+
 
 ## Site owners Goals
 * Promote the kiteboarding club and water sport activity.
@@ -89,13 +89,13 @@ This site gives some information about the club, stuf, events, basic information
 
 ### Fonts
 In order to move away from the basic fonts available, I have used 
-[Google Fonts](https://fonts.google.com/ "Google Fonts") to find a text that best suits the feel of the website. For the main text I have chosen [Lato](https://fonts.google.com/specimen/Lato?query=lato "Lato font") as I feel it is has a sharp, simple and easy to read look. To make the headers and the navigation bar stand out form the text, I decided to use [Oswald](https://fonts.google.com/specimen/Oswald?query=osw "Oswald font"). This font is complimentary to Lato but gives clear definition between text and headers.
+[Google Fonts](https://fonts.google.com/specimen/Rubik?query=ru "Lato font") as I feel it is has a sharp, simple and easy to read look. To make the headers and the navigation bar stand out form the text, I decided to use [Oswald](https://fonts.google.com/specimen/Oswald?query=osw "Oswald font"). This font is complimentary to Lato but gives clear definition between text and headers.
 
 ### Icons
 I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a nav bar icon links on all devices. All icons used will be styled and in keeping with the appearance of the website.
 
 ### Colours
-I have used [Canva](https://www.canva.com/ "canva") to help in the selection of my colour scheme. I selected the initial colour that I wanted the reast of my pallet to fit with and then used the generator to create the pallet, it can be seen [here](wireframes/colour_pallet.JPG "Generated Colour Pallet").
+I have used [Canva](https://www.canva.com/ "canva") to help in the selection of my colour scheme. I selected the initial colour that I wanted the reast of my pallet to fit with and then used the generator to create the pallet.
 
 I will explain the uses of the varius colours below, starting from top to bottom.
 
