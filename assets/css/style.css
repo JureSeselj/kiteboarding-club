@@ -464,7 +464,7 @@ hr {
 #social-links a {
     color: #735E93;
     text-decoration: none;
-    border: 1.6px solid #050833;
+    border: 1.6px solid #735E93;
     border-radius: 50%;
     height: 4rem;
     width: 4rem;
@@ -544,7 +544,7 @@ hr {
     width: 100%;
     height: 3rem;
     margin: .7rem 0 2rem 0;
-    border: 1px solid #75E6DA;
+    border: 1px solid #fafafa;
     border-radius: 2px;
 }
 
