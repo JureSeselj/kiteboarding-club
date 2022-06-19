@@ -89,7 +89,8 @@ This site gives some information about the club, stuf, events, basic information
 
 ### Fonts
 In order to move away from the basic fonts available, I have used 
-[Google Fonts](https://fonts.google.com/specimen/Rubik?query=ru "Lato font") as I feel it is has a sharp, simple and easy to read look. To make the headers and the navigation bar stand out form the text, I decided to use [Oswald](https://fonts.google.com/specimen/Oswald?query=osw "Oswald font"). This font is complimentary to Lato but gives clear definition between text and headers.
+[Google Fonts](https://fonts.google.com/ "Google Fonts") to find a text that best suits the feel of the website. For the main text I have chosen [Rubik] 
+(https://fonts.google.com/specimen/Rubik?query=rub "Rubik font") as I feel it is has a sharp, simple and easy to read look. To make the headers and the navigation bar stand out form the text, I decided to use [Barlow](https://fonts.google.com/specimen/Barlow?query=bar "Barlow font"). This font is complimentary to Lato but gives clear definition between text and headers.
 
 ### Icons
 I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a nav bar icon links on all devices. All icons used will be styled and in keeping with the appearance of the website.
