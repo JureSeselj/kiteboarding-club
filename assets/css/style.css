@@ -485,6 +485,23 @@ hr {
 
 /*FORM SECTION*/
 
+.form-text {
+    text-align: center;
+    color: #050833;
+    padding-top: 6rem;
+}
+
+.form-text h1 {
+    font-size: 10rem;
+    font-family: 'Rubik', sans-serif;
+}
+
+.form-text p {
+    font-size: 2rem;
+    font-style: italic;
+    font-family: 'Barlow', sans-serif;
+}
+
 .form-section {
     clear: left;
     background: url(../images/Crtanje-u-pijesku2.jpeg);
@@ -494,7 +511,7 @@ hr {
 }
 
 .signup-form {
-    margin: 20rem 10% 0 0;
+    margin: 10rem 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 40rem;
