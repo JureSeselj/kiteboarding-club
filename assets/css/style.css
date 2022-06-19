@@ -482,3 +482,28 @@ hr {
     color: #050833;
     text-align: center;
 }
+
+/*FORM SECTION*/
+
+.form-section {
+    clear: left;
+    background: url(../images/Crtanje-u-pijesku2.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 85rem;
+}
+
+.signup-form {
+    margin: 20rem 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 40rem;
+    position: absolute;
+    left: 10%;
+    padding: 3rem;
+}
+
+.signup-form > h2 {
+    color: #fafafa;
+    margin-bottom: 2rem;
+}
