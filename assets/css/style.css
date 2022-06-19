@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Rubik&display=swap');
+
 
 html {
     font-size: 62.5%;
@@ -33,16 +34,19 @@ html {
 
 .banner-text h1 {
     font-size: 12rem;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Rubik', sans-serif;
 }
 
 .banner-text p {
     font-size: 2rem;
     font-style: italic;
+    font-family: 'Barlow', sans-serif;
 }
 
 .banner-btn {
     margin: 7rem auto 0;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.6rem;
 }
 
 .banner-btn a {
@@ -94,6 +98,8 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #050833;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.4rem;
 }
 
 #menuBtn {
@@ -148,6 +154,7 @@ nav ul li a {
 .center-all h3 {
     font-size: 2.4rem;
     padding: 4rem 0;
+    font-family: 'Barlow', sans-serif;
 }
 
 /*--FEATURES--*/
@@ -188,7 +195,6 @@ nav ul li a {
 }
 
 .title-text h1 {
-    font-family: 'Lato', sans-serif;
     font-size: 6rem;
     color: #050833;
     text-decoration: none;
@@ -223,7 +229,6 @@ nav ul li a {
     margin-bottom: .8rem;
     font-weight: 100;
     font-size: 2.6rem;
-    font-family: 'Oswald' sans-serif;
     color: #735E93;
 }
 
@@ -329,7 +334,6 @@ hr {
 .events-desc h2 {
     font-size: 2.4rem;
     text-transform: uppercase;
-    font-family: 'Lato' sans-serif;
 }
 
 .events-desc p {
@@ -438,7 +442,6 @@ hr {
 
 #social-links a {
     color: #050833;
-    background-color: #efefef;
     text-decoration: none;
     border: 2px solid #050833;
     border-radius: 50%;
