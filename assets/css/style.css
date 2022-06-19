@@ -182,6 +182,7 @@ nav ul li a {
 .title-text p {
     margin: auto;
     font-size: 2.4rem;
+    font-family: 'Barlow', sans-serif;
     color: #735E93;
     font-weight: bolder;
     position: relative;
@@ -203,6 +204,7 @@ nav ul li a {
 }
 
 .title-text h1 {
+    font-family: 'Rubik', sans-serif;
     font-size: 6rem;
     color: #050833;
     text-decoration: none;
@@ -235,6 +237,7 @@ nav ul li a {
 .features h1 {
     text-align: left;
     margin-bottom: .8rem;
+    font-family: 'Rubik', sans-serif;
     font-weight: 100;
     font-size: 2.6rem;
     color: #735E93;
@@ -261,6 +264,7 @@ nav ul li a {
     padding: 0 2rem;
     text-align: initial;
     font-size: 1.6rem;
+    font-family: 'Barlow', sans-serif;
 }
 
 @media screen and (max-width: 770px) {
