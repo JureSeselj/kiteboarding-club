@@ -24,7 +24,7 @@ html {
 .logo {
     width: 14rem;
     position: absolute;
-    top: 3%;
+    top: 4%;
     left: 4%;
     border: 1px solid #050833;
 }
@@ -84,10 +84,10 @@ html {
 }
 
 #sideNav {
-    width: 25rem;
+    width: 24rem;
     height: 100vh;
     position: fixed;
-    right: -25rem;
+    right: -24rem;
     top: 0;
     background: #75E6DA;
     z-index: 2;
