@@ -9,6 +9,7 @@ html {
 * {
     margin: 0;
     padding: 0;
+    border: 0;
 }
 
 /*--BANNER PAGE--*/
@@ -26,7 +27,7 @@ html {
     position: absolute;
     top: 4%;
     left: 4%;
-    border: 1px solid #050833;
+    
 }
 
 .banner-text {
@@ -485,7 +486,7 @@ hr {
     text-align: center;
 }
 
-/*FORM SECTION*/
+/*SIGN UP FORM SECTION*/
 
 .form-text {
     text-align: center;
