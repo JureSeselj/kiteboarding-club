@@ -314,6 +314,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 ## Languages
 * [HTML](https://en.wikipedia.org/wiki/HTML "HTML")
 * [CSS](https://en.wikipedia.org/wiki/CSS "CSS")
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript "JavaScript")
 
 ## Libraries & Framework
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
@@ -321,9 +322,13 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 ## Tools
 * [Gitpod](https://www.gitpod.io/ "Gitpod")
+* [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML")
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS")
+* [Bootstrap](https://getbootstrap.com "Bootstrap")
 * [Canva](https://www.canva.com/ "canva")
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
+* [Pixabay](https://pixabay.com/ "Pixabay")
 * [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/ "html-css-js.com")
 
 \
