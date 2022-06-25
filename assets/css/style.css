@@ -531,6 +531,13 @@ hr {
         top: 2%;
         left: 4%;
     }
+    #menuBtn {
+        width: 5rem;
+        height: 5rem;
+        right: 4rem;
+        top: 1rem;
+        position: fixed;
+    }
     .banner-text h1 {
         font-size: 4.4rem;
     }
@@ -614,6 +621,37 @@ hr {
 
 /*Contact Section*/
 @media screen and (max-width: 770px) {
-    
+    .contact-left, .contact-right {
+        flex-basis: 100%;
+        font-size: 1.2rem;
+    }
+    .contact-row h1 {
+        font-size: 2.6rem;
+    }
+    .contact-row p {
+        font-size: 1.4rem;
+    }
+    .contact-left i, .contact-right i {
+        font-size: 1.6rem;
+    }
+    .contact-img {
+        max-width: 30rem;
+        top: 25%;
+    }
+    #map {
+        height: 16rem;
+        width: 70%;
+        margin-bottom: 4rem;
+        margin-left: 5rem;
+    }
+}
+
+/*Footer*/
+@media screen and (max-width: 770px) {
+    #social-links a {
+        height: 3.4rem;
+        width: 3.4rem;
+        font-size: 2rem;
+    }
 }
 
