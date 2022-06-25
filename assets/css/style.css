@@ -126,7 +126,7 @@ nav ul li a {
     font-size: 3.4rem;
 }
 
-@media screen and (max-width: 770px) {
+/*@media screen and (max-width: 770px) {
     .logo {
         width: 10rem;
         position: absolute;
@@ -143,7 +143,7 @@ nav ul li a {
         display: block;
         margin: 2rem auto;
     }
-}
+}*/
 
 /* ABOUT US */
 
@@ -273,7 +273,7 @@ nav ul li a {
     font-family: 'Barlow', sans-serif;
 }
 
-@media screen and (max-width: 770px) {
+/*@media screen and (max-width: 770px) {
     .title-text h1 {
         font-size: 4.5rem;
     }
@@ -283,7 +283,7 @@ nav ul li a {
     .features-img {
         flex-basis: 100%;
     }
-}
+}*/
 
 /*--EVENTS--*/
 
@@ -365,7 +365,7 @@ hr {
     opacity: 1;
 }
 
-@media screen and (max-width: 770px) {
+/*@media screen and (max-width: 770px) {
     .single-events {
         flex-basis: 100%;
         margin-bottom: 3rem;
@@ -383,7 +383,7 @@ hr {
     .single-events:hover .events-desc {
         bottom: 25% !important;
     }
-}
+}*/
 
 /*--CONTACT--*/
 
@@ -486,7 +486,7 @@ hr {
     text-align: center;
 }
 
-/*SIGN UP FORM SECTION*/
+/*--SIGN UP FORM SECTION--*/
 
 .form-text {
     text-align: center;
@@ -570,4 +570,26 @@ hr {
     background-color: #735E93;
     color: #fafafa;
     transition: 0.4s ease-in;
+}
+
+/*--MEDIA QUERIES--*/
+
+/* >=576px (Phone) */
+@media (min-width: 576px) {
+    .logo {
+        width: 10rem;
+        position: absolute;
+        top: 2%;
+        left: 2%;
+    }
+    .banner-text h1 {
+        font-size: 8rem;
+    }
+    .banner-text p {
+        font-size: 1.8rem;
+    }
+    .banner-btn a {
+        display: block;
+        margin: 2rem auto;
+    }
 }
