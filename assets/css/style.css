@@ -872,6 +872,44 @@ hr {
     }
 }
 
+/*Sign Up Form*/
+@media screen and (min-width: 576px) {
+    .form-text h1 {
+        font-size: 6rem;
+    }
+    .form-text p {
+        font-size: 1.4rem;
+    }
+    .form-text {
+        padding-top: 10rem;
+    }
+    .signup-form {
+        margin: 4rem 6% 0 0;
+        color: #fff;
+        background-color: rgba(60, 60, 60, 0.6);
+        max-width: 42rem;
+        position: absolute;
+        left: 10%;
+        padding: 4rem;
+        height: 40rem;
+        border: 1px solid #75E6DA;
+        border-radius: .4rem;
+    }
+    
+    .signup-form > h2 {
+        color: #fafafa;
+        margin-bottom: 2rem;
+        font-family: 'Rubik', sans-serif;
+        font-size: 2.4rem;
+    }
+    
+    .signup-form label {
+        font-family: 'Barlow', sans-serif;
+        font-size: 1.2rem;
+        font-weight: bolder;
+    }
+}
+
 /* Medium devices (tablets, 768px and up) */
 /*Banner Page & Navigation Bar*/
 @media screen and (min-width: 768px) {
@@ -1218,6 +1256,44 @@ hr {
         margin-bottom: 4rem;
         margin-left: 36rem;
         border: 1px solid #050833;
+    }
+}
+
+/*Sign Up Form*/
+@media screen and (min-width: 1200px) {
+    .form-text h1 {
+        font-size: 8rem;
+    }
+    .form-text p {
+        font-size: 1.8rem;
+    }
+    .form-text {
+        padding-top: 6rem;
+    }
+    .signup-form {
+        margin: 4rem 6% 0 0;
+        color: #fff;
+        background-color: rgba(60, 60, 60, 0.6);
+        max-width: 42rem;
+        position: absolute;
+        left: 20%;
+        padding: 4rem;
+        height: 40rem;
+        border: 1px solid #75E6DA;
+        border-radius: .4rem;
+    }
+    
+    .signup-form > h2 {
+        color: #fafafa;
+        margin-bottom: 2rem;
+        font-family: 'Rubik', sans-serif;
+        font-size: 2.8rem;
+    }
+    
+    .signup-form label {
+        font-family: 'Barlow', sans-serif;
+        font-size: 1.2rem;
+        font-weight: bolder;
     }
 }
 
