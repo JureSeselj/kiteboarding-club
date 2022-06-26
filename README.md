@@ -1,4 +1,4 @@
-![Logo](/assets/images/logo%2002%20purple.jpg) width="100"
+![Logo](/assets/images/logo%20purple%20readme.md.jpg)
 
 # NRT Kiteboarding Club
 
