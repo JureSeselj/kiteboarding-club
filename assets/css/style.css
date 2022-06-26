@@ -206,6 +206,7 @@ nav ul li a {
 .btn-2 {
     font-family: 'Rubik', sans-serif;
     position: relative;
+    color: #fafafa;
     right: 2rem;
     bottom: 2rem;
     border:none;
@@ -218,8 +219,9 @@ nav ul li a {
 }
 
 .btn-2 span {
-    background: rgb(117,230,218);
-    background: linear-gradient(0deg, rgba(117,230,218,1) 0%, rgba(119,230,218,1) 100%);
+    color: #fafafa;
+    background: rgb(115, 94, 147);
+    background: linear-gradient(0deg, rgba(115, 94, 147,1) 0%, rgba(115, 94, 147,1) 100%);
     display: block;
     position: absolute;
     width: 130px;
