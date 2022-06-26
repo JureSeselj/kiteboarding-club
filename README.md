@@ -1,4 +1,5 @@
 ![Logo]
+<img src="images/logo 02 purple.jpg" width="100">
 
 # NRT Kiteboarding Club
 
