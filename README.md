@@ -3,11 +3,9 @@
 # NRT Kiteboarding Club
 
 # Goal for this Project
-Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. 
+Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. This site gives some information about the club, stuf, events, basic information about kiteboarding and paddle boarding prices to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the Sign Up form.
 
-This site gives some information about the club, stuf, events, basic information about kiteboarding and paddle boarding prices to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the Sign Up form.
-
-![Responsive Displays]
+![Responsive Displays](/assets/images/NRT-Club-Mockup%20Generator.png)
 
 # Table of Contents
 * [UX](#ux "UX")
