@@ -6,6 +6,14 @@ html {
     scroll-behavior: smooth;
 }
 
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -657,7 +665,7 @@ hr {
     }
     .btn-1 {
         position: relative;
-        margin-left: 1.8rem;
+        margin-left: 2rem;
     }
     #sideNav {
         width: 20rem;
