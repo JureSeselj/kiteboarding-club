@@ -141,7 +141,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 + The banner page image
     - The image gives the user instant knowledge of what is involved in the club, and with added vertical nav bar icon draws their eye to the site.
-    - The text gives instant information to the user on what the club is. With the added buttons underneath the title with background photo, it makes the user keep interest. 
+    - The text gives instant information to the user on what the club is. With the added button underneath the title with background photo, it makes the user keep interest. 
     \
     &nbsp;
 
@@ -153,6 +153,10 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 \
 &nbsp;
 
+### About Us Section
+
++ The about us section gives a brief description about the club.
++ Welcoming you as a user to our club.
 + The welcome section gives a brief introduction to the user on what NRT Kiteboarding Club is and how to easly contact the club.
     \
     &nbsp;
@@ -161,11 +165,10 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-+ To speed up user interation, there is a *'Find Out'* and *'Join Us'* buttons that directly links to the contact form. This buttons has a hover effect on it, in the form of an animation to allow the user to know that it is something to be pressed.
++ To speed up user interation, there is a *'Join Us'* button that directly links to the sign up form. This buttons has a hover effect on it, in the form of an animation to allow the user to know that it is something to be pressed.
     \
     &nbsp;
 
-    ![Find Out Button]
     ![Join Us Button]
 
 \
@@ -173,11 +176,6 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 [Back to Top](#table-of-contents)
 \
 &nbsp;
-
-### About Us Section
-
-+ The about us section gives a brief description about the club.
-+ Welcoming you as a user to our club.
 
 ### Features Section
 
@@ -202,7 +200,6 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     *Phone and Tablet*
     
     
-
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -211,7 +208,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 ### Events Section
 
-+ This is where the most upcoming club events are shown. It includes slightly darker background quickly show if it is a social or a race event to the user. Also, on the larger screen sizes it includes some images to break up the screen.
++ This is where the most upcoming club events are shown. It includes photos with hover effect when user hover over photo text appear to quickly show if it is a social or a race event to the user. Also, on the smaller screen sizes it includes different photo style to break up the screen.
     \
     &nbsp;
 
@@ -225,27 +222,11 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
    
 
-    \
-    &nbsp;
-+ The date and location are also shown with the added function of a link to the directions of the event via Google Maps. There is also a label added, and animation for extra information to the user that it is a link to follow.
-    \
-    &nbsp;
-
-    ![Events Section Directions]
-
 \
 &nbsp;
 [Back to Top](#table-of-contents)
 \
 &nbsp;
-
-### About Section
-
-+ The about section gives a brief description of the kiteboarding and paddle boarding with images
-\
-    &nbsp;
-
-    ![About Section]
 
 ### Contact Section
 
@@ -257,19 +238,13 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-+ The text fields are all required fields and will not alow the user to submit until they are completed, this includes a validation on the email to ensure it is in a valid format. There is also a hover effect on the Sign Up! button to give the user feedback that it is and active button.
++ The contact section contains the icons for opening hour text on the left side and location, email and phone number related to NRT on the right side.
     \
     &nbsp;
 
     ![Contact Section]
     \
     &nbsp;
-
-+ On submission of the form, the user is bought to a page showing that their details were received.
-    \
-    &nbsp;
-
-    ![Contact Section]
 
 \
 &nbsp;
@@ -279,7 +254,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 ### Footer
 
-+ The footer contains the social media links, contact number, address, email related to NRT and the copyright text. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to 's site.
++ The footer contains the social media links related to NRT and the copyright text. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to the site.
     \
     &nbsp;
 
@@ -294,6 +269,18 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     ![Contact Section]
     \
     &nbsp;
+
+### Sign Up Form Page
+
++ The signup.html page contains background cover photo, title with paragraph and sign up form for potential new users.
+    \
+    &nbsp;
+
+    ![Sign Up Page]
+    \
+    &nbsp;
+
++ There is also logo in top left corner in different colour to match the background cover photo and icon nav bar in top right corner to allow user to go back on banner page.
 
 ## Features to be Implemented
 
