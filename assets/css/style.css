@@ -784,6 +784,44 @@ hr {
     }
 }
 
+/*Sign Up Form*/
+@media screen and (min-width: 320px) {
+    .form-text h1 {
+        font-size: 4rem;
+    }
+    .form-text p {
+        font-size: 1.2rem;
+    }
+    .form-text {
+        padding-top: 10rem;
+    }
+    .signup-form {
+        margin: 4rem 6% 0 0;
+        color: #fff;
+        background-color: rgba(60, 60, 60, 0.6);
+        max-width: 42rem;
+        position: absolute;
+        left: 10%;
+        padding: 4rem;
+        height: 40rem;
+        border: 1px solid #75E6DA;
+        border-radius: .4rem;
+    }
+    
+    .signup-form > h2 {
+        color: #fafafa;
+        margin-bottom: 2rem;
+        font-family: 'Rubik', sans-serif;
+        font-size: 1.6rem;
+    }
+    
+    .signup-form label {
+        font-family: 'Barlow', sans-serif;
+        font-size: 1.2rem;
+        font-weight: bolder;
+    }
+}
+
 /* Small devices (landscape phones, 576px and up */
 /*Banner Page & Navigation Bar*/
 @media screen and (min-width: 576px) {
