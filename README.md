@@ -100,22 +100,24 @@ I will explain the uses of the varius colours below, starting from top to bottom
 
 ![Colour Pallet]
 
-* #050833 - This colour will be used as a text colour also for the icons colour.
-* #75E6DA - This colour will be used as a logo colour and nav bar icon background colour.
-* #fafafa - This colour will be used as background colour for features and about section.
-* #efefef - This colour will be used as background colour for events and contact section.
+* #050833 - This colour will be used as a text colour.
+* #75E6DA - This colour will be used as a vertical navigation bar background colour and as a button background colour on banner page.
+* #735E93 - This colour will be used as text colour also button background colour on about us section.
+* #fafafa - This colour will be used as background colour for about us section and events section.
+* #efefef - This colour will be used as background colour for features section and contact section.
 
 
 ### Structure
-I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are from [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap").
+I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are:
 
-| Screen Size | Breakpoint |
-| ----------- | ---------- |
-| x-small     | <576px     |
-| small       | => 576px   |
-| medium      | => 768px   |
-| large       | => 992px   |
-| x-large     | => 1200px  |
+| Screen Size | Devices            | Breakpoint    |          
+| ----------- | ------------------ | ------------- |
+| X-Small     | portrits phones    |  320px and up |
+| Small       | landscape phones   |  576px and up |
+| Medium      | tablets            |  768px and up |        
+| Large       | desktops           |  992px and up |        
+| X-Large     | large desktops     | 1200px and up |
+| XX-Large    | larger desktops    | 1400px and up |
 
 \
 &nbsp;
