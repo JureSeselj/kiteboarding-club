@@ -705,7 +705,7 @@ hr {
     }
     .btn-1 {
         position: relative;
-        margin-left: 2rem;
+        margin-left: 3rem;
     }
     #sideNav {
         width: 20rem;
@@ -733,7 +733,7 @@ hr {
 /*Features Section*/
 @media screen and (min-width: 320px) {
     .title-text h1 {
-        font-size: 2.6rem;
+        font-size: 1.8rem;
     }
     .features {
         flex-basis: 100%;
@@ -875,6 +875,26 @@ hr {
     .btn-1 {
         position: relative;
         margin-left: 3rem;
+    }
+}
+
+/*Features Section*/
+@media screen and (min-width: 576px) {
+    .title-text h1 {
+        font-size: 1.8rem;
+    }
+    .features {
+        flex-basis: 100%;
+    }
+    .features-img {
+        flex-basis: 100%;
+    }
+    #feature {
+        width: 100%;
+        padding: 4rem 0;
+    }
+    .title-text p {
+        font-size: 2rem;
     }
 }
 
