@@ -343,6 +343,7 @@ I have encountered several issues during testing.
 
     - HTML (index.html) validator [results](/assets/readme.md-images/W3C%20html%20validator.png "W3C HTML")
     - HTML (signup.html) validator [results](/assets/readme.md-images/signup-W3C-validator.png "W3C HTML")
+    - HTML (contact.html) validator [results](/assets/readme.md-images/contact.html-page-W3C-readme.png "W3C HTML")
     - CSS validator [results](/assets/readme.md-images/css-W3C-validator.png "W3C CSS")
 
 
