@@ -369,6 +369,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 For code inspiration, help and advice,
 * [Simen Daehlin](https://github.com/Eventyret "Simen Daehlin")
+* [Code Institute](https://codeinstitute.net/ie/ "Code Institute")
 \
 &nbsp;
 
