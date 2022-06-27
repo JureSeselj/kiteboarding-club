@@ -320,7 +320,9 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 \
 &nbsp;
 
-    - HTML (index.html) validator [results](/assets/readme.md-images/W3%20html%20validator.png "W3C HTML")
+    - HTML (index.html) validator [results](/assets/readme.md-images/W3C%20html%20validator.png "W3C HTML")
+    - HTML (signup.html) validator [results](/assets/readme.md-images/signup-W3C-validator.png "W3C HTML")
+    - CSS validator [results](/assets/readme.md-images/css-W3C-validator.png "W3C CSS")
 
 
 
