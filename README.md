@@ -265,7 +265,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Sign Up Page]
+    ![Sign Up Page](/assets/readme.md-images/signup-page-readme.png)
     \
     &nbsp;
 
