@@ -271,6 +271,16 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 + There is also logo in top left corner in different colour to match the background cover photo and icon nav bar in top right corner to allow user to go back on banner page.
 
+### contact.html Page
+
++ The contact.html page contains message received title and paragraph with purple logo in top left corner, aso there is arrow pointing left for home page.
+    \
+    &nbsp;
+
+    ![contact.html Page](/assets/readme.md-images/contact.html-page-readme.png)
+    \
+    &nbsp;
+
 ## Features to be Implemented
 
 + Contact form to send message to NRT Kiteboarding Club instead of leading to a dummy page.
