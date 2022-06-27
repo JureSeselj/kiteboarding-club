@@ -136,6 +136,11 @@ I will be building my website with a mobile first mindset using the iPhone 5/SE 
 
 The navigation bar is position vertical with bar icon and fully responsive to allow for various screen sizes. It includes links to manover around the site easily.
 
+   ![Navigation Bar Icon](/assets/readme.md-images/nav-bar.png)
+   ![Vertical Open Nav Bar](/assets/readme.md-images/nav-bar-open.png)
+
+    \
+    &nbsp;
 ### Banner Page
 
 + The banner page image
