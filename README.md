@@ -98,9 +98,9 @@ I will used some icons for my website from the [Font Awesome library](https://fo
 ### Colours
 I have used [Canva](https://www.canva.com/ "canva") to help in the selection of my colour scheme. I selected the initial colour that I wanted the reast of my pallet to fit with and then used the generator to create the pallet.
 
-I will explain the uses of the varius colours below, starting from top to bottom.
+I will explain the uses of the varius colours below, starting from the left to right side.
 
-![Colour Pallet](/assets/images/colour-palette-readme.md.jpg.png)
+![Colour Pallet](/assets/images/colour-palette-readme-file.png)
 
 * #050833 - This colour will be used as a text colour.
 * #75E6DA - This colour will be used as a vertical navigation bar background colour and as a button background colour on banner page.
