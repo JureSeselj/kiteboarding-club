@@ -316,14 +316,42 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 # Testing
 
-+ I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the sign up form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
+I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the sign up form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
 \
 &nbsp;
+
+I have encountered several issues during testing.
++ I initially decided to create the site with an x-large screen size then on smaller screen had issues with some sections.
+  The site might still have some issue with button position on different screen sizes.
+
++ I had a big issue with vertical white line showing all the time on the right hand side but with css I fixed that issue.
+  
++ All my buttons were styled completly differently. I added an animation to all buttons so there is a continuity between them all.
+
++ When I was validating HTML code, I had 14 errors showing. All issues were related to alt atribute for images and space between image file path in html file the rest   of code had no errors.
+  The results of my validation for HTML and CSS are below. 
 
     - HTML (index.html) validator [results](/assets/readme.md-images/W3C%20html%20validator.png "W3C HTML")
     - HTML (signup.html) validator [results](/assets/readme.md-images/signup-W3C-validator.png "W3C HTML")
     - CSS validator [results](/assets/readme.md-images/css-W3C-validator.png "W3C CSS")
 
+
+# Deployment
+
+Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+
++ Navigate to the repository on github and click 'Settings'.
++ Then select 'Pages' on the side navigation.
++ Select the 'None' dropdown, and then click 'master'.
++ Click on the 'Save' button.
++ Now the website is now live on https://jureseselj.github.io/nrt-kiteboarding-club/
++ If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 
 # Credits
