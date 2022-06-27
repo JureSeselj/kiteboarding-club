@@ -255,7 +255,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Contact Section]
+    
     \
     &nbsp;
 
