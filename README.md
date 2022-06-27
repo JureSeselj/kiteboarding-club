@@ -149,7 +149,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Banner Page]
+    ![Banner Page](/assets/readme.md-images/banner-page-readme.png)
 
 \
 &nbsp;
