@@ -1,11 +1,11 @@
-![Logo](/assets/images/logo%20purple%20readme.md.jpg)
+![Logo](/assets/readme.md-images/logo%20purple%20readme.md.jpg)
 
 # NRT Kiteboarding Club
 
 # Goal for this Project
 Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. This site gives some information about the club, stuf, events, basic information about kiteboarding and paddle boarding prices to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the Sign Up form.
 
-![Responsive Displays](/assets/images/NRT-Club-Mockup%20Generator.png)
+![Responsive Displays](/assets/readme.md-images/NRT-Club-Mockup%20Generator.png)
 
 # Table of Contents
 * [UX](#ux "UX")
@@ -100,7 +100,7 @@ I have used [Canva](https://www.canva.com/ "canva") to help in the selection of 
 
 I will explain the uses of the varius colours below, starting from the left to right side.
 
-![Colour Pallet](/assets/images/readme-file-colour-palette.png)
+![Colour Pallet](/assets/readme.md-images/readme-file-colour-palette.png)
 
 * #050833 - This colour will be used as a text colour.
 * #75E6DA - This colour will be used as a vertical navigation bar background colour and as a button background colour on banner page.
