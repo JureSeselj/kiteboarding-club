@@ -206,13 +206,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    *Large device*
-
-    
-    \
-    &nbsp;
-
-    *Small device*
+    ![Events Section](/assets/readme.md-images/events-readme.png)
 
    
 
