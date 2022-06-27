@@ -100,7 +100,7 @@ I have used [Canva](https://www.canva.com/ "canva") to help in the selection of 
 
 I will explain the uses of the varius colours below, starting from the left to right side.
 
-![Colour Pallet](/assets/images/colour-palette-readme-file.png)
+![Colour Pallet](/assets/images/readme-file-colour-palette.png)
 
 * #050833 - This colour will be used as a text colour.
 * #75E6DA - This colour will be used as a vertical navigation bar background colour and as a button background colour on banner page.
