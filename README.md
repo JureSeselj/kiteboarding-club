@@ -138,7 +138,6 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
    ![Navigation Bar Icon](/assets/readme.md-images/nav-bar.png)
    ![Vertical Open Nav Bar](/assets/readme.md-images/nav-bar-open.png)
-
     \
     &nbsp;
 ### Banner Page
