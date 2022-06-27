@@ -110,7 +110,7 @@ I will explain the uses of the varius colours below, starting from top to bottom
 ### Structure
 I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are:
 
-| Screen Size | Devices            | Breakpoint    |          
+| Screen Size | Device             | Breakpoint    |          
 | ----------- | ------------------ | ------------- |
 | X-Small     | portrits phones    |  320px and up |
 | Small       | landscape phones   |  576px and up |
