@@ -314,7 +314,13 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 \
 &nbsp;
 
+# Testing
 
++ I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the sign up form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
+\
+&nbsp;
+
+    - HTML (index.html) validator [results](/assets/readme.md-images/W3%20html%20validator.png "W3C HTML")
 
 
 
