@@ -134,14 +134,12 @@ I will be building my website with a mobile first mindset using the iPhone 5/SE 
 
 The navigation bar is position vertical with bar icon and fully responsive to allow for various screen sizes. It includes links to manover around the site easily.
 
-
-
-
 ### Banner Page
 
 + The banner page image
     - The image gives the user instant knowledge of what is involved in the club, and with added vertical nav bar icon draws their eye to the site.
-    - The text gives instant information to the user on what the club is. With the added button underneath the title with background photo, it makes the user keep interest. 
+    - The text gives instant information to the user on what the club is. With the added button underneath the title with background photo, it makes the user keep interest.
+    - The purple logo is in the top left corner on the banner page. 
     \
     &nbsp;
 
@@ -157,7 +155,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 + The about us section gives a brief description about the club.
 + Welcoming you as a user to our club.
-+ The welcome section gives a brief introduction to the user on what NRT Kiteboarding Club is and how to easly contact the club.
++ The about us section gives a brief introduction to the user on what NRT Kiteboarding Club is and how to easly contact the club.
     \
     &nbsp;
 
@@ -165,11 +163,12 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-+ To speed up user interation, there is a *'Join Us'* button that directly links to the sign up form. This buttons has a hover effect on it, in the form of an animation to allow the user to know that it is something to be pressed.
++ To speed up user interation, there is a *'Join Us'* - *'Sign Up'* button that directly links to the sign up form page. This buttons has a hover effect on it, in the form of an animation to allow the user to know that it is something to be pressed.
     \
     &nbsp;
 
     ![Join Us Button]
+    ![Sign Up Button]
 
 \
 &nbsp;
@@ -179,7 +178,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 ### Features Section
 
-+ The features section gives a brief description of the kiteboarding club with the adition of a character showing the user about NRT Kiteboarding stuff, course price and contact.  It is also responsive to suit the different screen sizes.
++ The features section gives a brief description of the kiteboarding club with the adition of a character showing the user about NRT Kiteboarding stuff, course prices and booking with icons on left side just before paragraph and photo of the beach on the right side of the features section. It is also responsive to suit the different screen sizes.
     \
     &nbsp;
 
@@ -230,7 +229,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 ### Contact Section
 
-+ The contact section allows the user to quickly send a message to the NRT Kiteboarding Club. it also has a map of the location of the club base.
++ The contact section allows the user to quickly see the different type of contacts to the NRT Kiteboarding Club. It also has a map of the location of the club base.
     \
     &nbsp;
 
@@ -239,6 +238,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     &nbsp;
 
 + The contact section contains the icons for opening hour text on the left side and location, email and phone number related to NRT on the right side.
++ It also contains vector image in the background of the title for contact section.
     \
     &nbsp;
 
@@ -272,7 +272,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 ### Sign Up Form Page
 
-+ The signup.html page contains background cover photo, title with paragraph and sign up form for potential new users.
++ The signup.html page contains background cover photo, title with paragraph and sign up form for potential new user.
     \
     &nbsp;
 
@@ -311,6 +311,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 * [Gitpod](https://www.gitpod.io/ "Gitpod")
 * [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML")
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS")
+* [Codepen](https://codepen.io/ "Codepen")
 * [Bootstrap](https://getbootstrap.com "Bootstrap")
 * [Canva](https://www.canva.com/ "canva")
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
@@ -336,9 +337,9 @@ For code inspiration, help and advice,
 &nbsp;
 
 For content and style inspiration,
+* [Kitesurfing Dublin](https://kitesurfingdublin.com/ "Kitesurfing Dublin")
 * [Neretva Kiteboarding](https://neretvakiteboarding.com/ "Neretva Kiteboarding")
 * [Pure Magic](https://puremagic.ie/ "Pure Magic")
-* [Kitesurfing Dublin](https://kitesurfingdublin.com/ "Kitesurfing Dublin")
 
 \
 &nbsp;
