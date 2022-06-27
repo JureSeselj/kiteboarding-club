@@ -347,6 +347,8 @@ I have encountered several issues during testing.
     - CSS validator [results](/assets/readme.md-images/css-W3C-validator.png "W3C CSS")
 
 
+# Unfixed Bugs
+
 # Deployment
 
 Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
