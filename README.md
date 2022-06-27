@@ -165,7 +165,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Features Section]
+    ![About Us Section](/assets/readme.md-images/abou-us-readme.png)
     \
     &nbsp;
 
