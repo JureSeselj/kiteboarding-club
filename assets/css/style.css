@@ -661,7 +661,7 @@ hr {
     background-color: #efefef;
     width: 28rem;
     height: 17rem;
-    padding: 4rem 6rem;
+    padding: 4rem 74rem;
     font-size: 6rem;
     color: #735E93;
 }
@@ -679,10 +679,11 @@ hr {
 .submission-page i {
     color: #735E93;
     font-size: 6rem;
+    padding: 10rem 82rem;
 }
 
 .submission-page i:hover {
-    color: #fafafa;
+    color: #050833;
     transition: .3s ease-in;
 }
 
