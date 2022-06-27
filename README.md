@@ -231,7 +231,7 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     \
     &nbsp;
 
-    ![Contact Section]
+    ![Contact Section](/assets/readme.md-images/contact-section-readme.png)
     \
     &nbsp;
 
