@@ -220,14 +220,9 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 ### Contact Section
 
 + The contact section allows the user to quickly see the different type of contacts to the NRT Kiteboarding Club. It also has a map of the location of the club base.
-    \
-    &nbsp;
-
-    ![Contact Section]
-    \
-    &nbsp;
-
+   
 + The contact section contains the icons for opening hour text on the left side and location, email and phone number related to NRT on the right side.
+
 + It also contains vector image in the background of the title for contact section.
     \
     &nbsp;
