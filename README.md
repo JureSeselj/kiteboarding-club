@@ -3,7 +3,8 @@
 # NRT Kiteboarding Club
 
 # Goal for this Project
-Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. This site gives some information about the club, stuf, events, basic information about kiteboarding and paddle boarding prices to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the Sign Up form.
+Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. 
+This site gives some information about the club, stuf, events, basic information about kiteboarding and paddle boarding prices to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the Sign Up form.
 
 ![Responsive Displays](/assets/readme.md-images/NRT-Club-Mockup%20Generator.png)
 
@@ -90,7 +91,7 @@ Welcome to NRT Kiteboarding Club. This club provides an outlet for all people de
 ### Fonts
 In order to move away from the basic fonts available, I have used 
 [Google Fonts](https://fonts.google.com/ "Google Fonts") to find a text that best suits the feel of the website. For the main text I have chosen 
-[Rubik](https://fonts.google.com/specimen/Rubik?query=rub "Rubik font"). as I feel it is has a sharp, simple and easy to read look. To make the headers and the navigation bar stand out form the text, I decided to use [Barlow](https://fonts.google.com/specimen/Barlow?query=bar "Barlow font"). This font is complimentary to Lato but gives clear definition between text and headers.
+[Rubik](https://fonts.google.com/specimen/Rubik?query=rub "Rubik font"). as I feel it is has a sharp, simple and easy to read look. To make the headers and the navigation bar stand out form the text, I decided to use [Barlow](https://fonts.google.com/specimen/Barlow?query=bar "Barlow font"). This font is complimentary to Rubik font but gives clear definition between text and headers.
 
 ### Icons
 I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a nav bar icon links on all devices. All icons used will be styled and in keeping with the appearance of the website.
@@ -326,19 +327,19 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 
 # Testing
 
-I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the sign up form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
+I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the sign up form or social media simply. The content is simple and to the point and the site is not overcrowded as to put the user off.
 \
 &nbsp;
 
 I have encountered several issues during testing.
 + I initially decided to create the site with an x-large screen size then on smaller screen had issues with some sections.
-  The site might still have some issue with button position on different screen sizes.
+  The site might still have some issue with map position on different screen sizes.
 
 + I had a big issue with vertical white line showing all the time on the right hand side but with css I fixed that issue.
   
 + All my buttons were styled completly differently. I added an animation to all buttons so there is a continuity between them all.
 
-+ When I was validating HTML code, I had 14 errors showing. All issues were related to alt atribute for images and space between image file path in html file the rest   of code had no errors.
++ When I was validating HTML code, I had 14 errors showing. All issues were related to alt atribute for images and space between image file path in html file the rest of code had no errors.
   The results of my validation for HTML and CSS are below. 
 
     - HTML (index.html) validator [results](/assets/readme.md-images/W3C%20html%20validator.png "W3C HTML")
@@ -348,6 +349,9 @@ I have encountered several issues during testing.
 
 
 # Unfixed Bugs
+
+There still might be an issue with position of the map on different screen sizes of contact section and also with position of the button on banner page.
+
 
 # Deployment
 
