@@ -333,14 +333,29 @@ There still might be an issue with position of the map on different screen sizes
 
 # Deployment
 
-Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://jureseselj.github.io/nrt-kiteboarding-club/), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-+ Navigate to the repository on github and click 'Settings'.
-+ Then select 'Pages' on the side navigation.
-+ Select the 'None' dropdown, and then click 'master'.
-+ Click on the 'Save' button.
-+ Now the website is now live on https://jureseselj.github.io/nrt-kiteboarding-club/
-+ If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+The live link can be found [here](https://jureseselj.github.io/nrt-kiteboarding-club/)
+
+
+### Local Deployment
+
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone ### Local Deployment
+
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://jureseselj.github.io/nrt-kiteboarding-club/`
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://jureseselj.github.io/nrt-kiteboarding-club/)`
+
+
 
 
 [Back to Top](#table-of-contents)
