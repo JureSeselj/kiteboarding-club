@@ -341,7 +341,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 The live link can be found [here](https://jureseselj.github.io/nrt-kiteboarding-club/)
 
 
-### Local Deployment
+## Local Deployment
 
 In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
 
