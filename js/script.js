@@ -12,3 +12,4 @@ const menuBtn = document.getElementById("menuBtn")
                 sideNav.style.right = "-24rem";
             }
         }
+

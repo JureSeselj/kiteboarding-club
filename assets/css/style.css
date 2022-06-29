@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Rubik&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 
 html {
     font-size: 62.5%;
@@ -14,11 +19,6 @@ html, body {
     overflow-x: hidden;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
 
 /*--BANNER PAGE--*/
 
@@ -45,12 +45,12 @@ html, body {
 }
 
 .banner-text h1 {
-    font-size: 12rem;
+    font-size: 6.8rem;
     font-family: 'Rubik', sans-serif;
 }
 
-.banner-text p {
-    font-size: 2rem;
+.banner-text h2 {
+    font-size: 3.6rem;
     font-style: italic;
     font-family: 'Barlow', sans-serif;
 }
@@ -188,19 +188,21 @@ nav ul li a {
     align-items: center;
 }
 
-.center-all h1 {
+.center-all h2 {
     font-family: 'Rubik', sans-serif; 
+    font-size: 6rem;
 }
 
-.center-all h3 {
+.center-all p {
     font-size: 2.8rem;
     padding: 8rem 0;
     font-family: 'Barlow', sans-serif;
     color: #735E93;
 }
 
-.center-all p {
+.center-all h4 {
     font-family: 'Barlow', sans-serif;
+    font-size: 2.4rem;
 }
 
 .btn-2 {
@@ -295,9 +297,9 @@ nav ul li a {
     padding-bottom: 4rem;
 }
 
-.title-text p {
+.title-text h4 {
     margin: auto;
-    font-size: 2.4rem;
+    font-size: 1.8rem;
     font-family: 'Barlow', sans-serif;
     color: #735E93;
     font-weight: bolder;
@@ -307,7 +309,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-.title-text p::after {
+.title-text h4::after {
     content: '';
     width: 5rem;
     height: 3.5rem;
@@ -319,9 +321,9 @@ nav ul li a {
     transform: rotate(10deg);
 }
 
-.title-text h1 {
+.title-text h2 {
     font-family: 'Rubik', sans-serif;
-    font-size: 6rem;
+    font-size: 4rem;
     color: #050833;
     text-decoration: none;
 }
@@ -350,7 +352,7 @@ nav ul li a {
     
 }
 
-.features h1 {
+.features h3 {
     text-align: left;
     margin-bottom: .8rem;
     font-family: 'Rubik', sans-serif;
@@ -445,7 +447,7 @@ hr {
     width: 60%;
 }
 
-.events-desc h2 {
+.events-desc h3 {
     font-family: 'Rubik', sans-serif;
     font-size: 2.4rem;
     text-transform: uppercase;
@@ -487,15 +489,15 @@ hr {
     text-align: right;
 }
 
-.contact-row h1 {
+.contact-row h3 {
     margin: 1rem 0;
-    font-size: 2.8rem;
+    font-size: 3.4rem;
     font-family: 'Rubik', sans-serif;
 }
 
 .contact-row p {
     line-height: 3.5rem;
-    font-size: 1.8rem;
+    font-size: 2.4rem;
     font-family: 'Barlow', sans-serif;
 }
 
@@ -555,7 +557,7 @@ hr {
     transition: 0.4s ease-in;
 }
 
-#footer h4 {
+#footer h5 {
     font-family: 'Rubik', sans-serif;
     font-size: 1.4rem;
     color: #050833;
@@ -575,7 +577,7 @@ hr {
     font-family: 'Rubik', sans-serif;
 }
 
-.form-text p {
+.form-text h2 {
     font-size: 1.8rem;
     font-style: italic;
     font-family: 'Barlow', sans-serif;
@@ -699,9 +701,9 @@ hr {
         left: 6%;
     }
     .banner-text h1 {
-        font-size: 4.6rem;
+        font-size: 8rem;
     }
-    .banner-text p {
+    .banner-text h2 {
         font-size: 1.8rem;
     }
     .btn-1 {
@@ -720,18 +722,20 @@ hr {
     }
     
 /*About Us (Welcome) Section*/
-    .center-all h3 {
-        font-size: 1.8rem;
-        padding: 2rem 1rem;
+    .center-all h2 {
+        font-family: 'Rubik', sans-serif; 
+        font-size: 4rem;
     }
+
     .center-all p {
-        font-size: 2rem;
+        font-size: 2.4rem;
+        padding: 8rem 0;
+    }
+    .center-all h4 {
+        font-size: 1.8rem;
     }
 
 /*Features Section*/
-    .title-text h1 {
-        font-size: 1.8rem;
-    }
     .features {
         flex-basis: 100%;
     }
@@ -742,9 +746,10 @@ hr {
         width: 100%;
         padding: 4rem 0;
     }
-    .title-text p {
-        font-size: 2rem;
+    .title-text h4 {
+        font-size: 1.8rem;
     }
+    
 
 /*Events Section*/
     #events {
@@ -856,18 +861,12 @@ hr {
         top: 3%;
         left: 4%;
     }
-    .banner-text h1 {
-        font-size: 8rem;
-    }
     .btn-1 {
         position: relative;
         margin-left: 3rem;
     }
 
 /*Features Section*/
-    .title-text h1 {
-        font-size: 1.8rem;
-    }
     .features {
         flex-basis: 100%;
     }
@@ -878,9 +877,7 @@ hr {
         width: 100%;
         padding: 4rem 0;
     }
-    .title-text p {
-        font-size: 2rem;
-    }
+    
 
 /*Events Section*/
     #events {
@@ -901,12 +898,7 @@ hr {
     .single-events:hover .events-desc {
         bottom: 25% !important;
     }
-    .events-desc h2 {
-        font-size: 2.2rem;
-    }
-    .events-desc p {
-        font-size: 1.6rem;
-    }
+    
 
 /*Contact Section*/
     #map {
@@ -917,12 +909,6 @@ hr {
     }
 
 /*Sign Up Form*/
-    .form-text h1 {
-        font-size: 6rem;
-    }
-    .form-text p {
-        font-size: 1.4rem;
-    }
     .form-text {
         padding-top: 10rem;
     }
@@ -954,26 +940,13 @@ hr {
 /* Medium devices (tablets, 768px and up) */
 /*Banner Page & Navigation Bar*/
 @media screen and (min-width: 768px) {
-    .banner-text h1 {
-        font-size: 8rem;
-    }
+    
 
 /*About Us (Welcome) Section*/
-    .center-all h3 {
-        font-size: 2.6rem;
-        padding: 2rem 1rem;
-    }
-    .center-all p {
-        font-size: 2rem;
-    }
-    .center-all h1 {
-        font-size: 5.8rem;
-    }
+    
 
 /*Features Section*/
-    .title-text h1 {
-        font-size: 5.8rem;
-    }
+    
     .features {
         flex-basis: 100%;
     }
@@ -984,21 +957,14 @@ hr {
         width: 100%;
         padding: 4rem 0;
     }
-    .title-text p {
-        font-size: 2rem;
-    }
+    
 
 /*Events Section*/
     .single-events img {
         width: 100%;
         height: 40rem;
     }
-    .events-desc h2 {
-        font-size: 2.6rem;
-    }
-    .events-desc p {
-        font-size: 2rem;
-    }
+    
     .single-events:hover .events-desc {
         bottom: 30% !important;
     }
@@ -1007,12 +973,6 @@ hr {
     .contact-left, .contact-right {
         flex-basis: 100%;
         font-size: 1.6rem;
-    }
-    .contact-row h1 {
-        font-size: 3rem;
-    }
-    .contact-row p {
-        font-size: 1.4rem;
     }
     .contact-left i, .contact-right i {
         font-size: 1.6rem;
@@ -1032,29 +992,13 @@ hr {
 /* Large devices (desktops, 992px and up) */
 /*Banner Page & Navigation Bar*/
 @media screen and (min-width: 992px) {
-    .banner-text h1 {
-        font-size: 10rem;
-    }
+    
 
 /*About Us (Welcome) Section*/
-    .center-all h1 {
-        font-size: 5.2rem;
-    }
-    .center-all h3 {
-        font-size: 2.4rem;
-        padding: 2rem 1rem;
-    }
-    .center-all p {
-        font-size: 2.4rem;
-    }
+    
 
 /*Features Section*/
-    .title-text h1 {
-        font-size: 5.2rem;
-    }
-    .title-text p {
-        font-size: 2.4rem;
-    }
+    
 
 /*Events Section*/
     #events {
@@ -1090,12 +1034,6 @@ hr {
         flex-basis: 100%;
         font-size: 1.8rem;
     }
-    .contact-row h1 {
-        font-size: 3.8rem;
-    }
-    .contact-row p {
-        font-size: 1.8rem;
-    }
     .contact-left i, .contact-right i {
         font-size: 1.6rem;
     }
@@ -1127,12 +1065,6 @@ hr {
         top: 1rem;
         position: fixed;
     }
-    .banner-text h1 {
-        font-size: 14rem;
-    }
-    .banner-text p {
-        font-size: 2rem;
-    }
     .banner-btn a {
         width: 15rem;
         text-decoration: none;
@@ -1158,16 +1090,7 @@ hr {
     }
 
 /*About Us (Welcome) Section*/
-    .center-all h1 {
-        font-size: 5.8rem;
-    }
-    .center-all h3 {
-        font-size: 2.8rem;
-        padding: 4rem 2rem;
-    }
-    .center-all p {
-        font-size: 2.6rem;
-    }
+    
 
 /*Features Section*/
     .feature-box {
@@ -1238,19 +1161,6 @@ hr {
     .contact-right {
         text-align: right;
     }
-    
-    .contact-row h1 {
-        margin: 1rem 0;
-        font-size: 2.8rem;
-        font-family: 'Rubik', sans-serif;
-    }
-    
-    .contact-row p {
-        line-height: 3.5rem;
-        font-size: 1.8rem;
-        font-family: 'Barlow', sans-serif;
-    }
-    
     .contact-left i, .contact-right i {
         font-size: 1.8rem;
         color: #735E93;
@@ -1274,12 +1184,6 @@ hr {
     }
 
 /*Sign Up Form*/
-    .form-text h1 {
-        font-size: 8rem;
-    }
-    .form-text p {
-        font-size: 1.8rem;
-    }
     .form-text {
         padding-top: 6rem;
     }
@@ -1338,12 +1242,6 @@ hr {
     .contact-left, .contact-right {
         flex-basis: 45%;
         font-size: 1.6rem;
-    }
-    .contact-row h1 {
-        font-size: 2.8rem;
-    }
-    .contact-row p {
-        font-size: 2rem;
     }
     .contact-left i, .contact-right i {
         font-size: 1.6rem;
