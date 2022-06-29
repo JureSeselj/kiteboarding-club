@@ -1,4 +1,4 @@
-![Logo](/assets/readme.md-images/logo%20purple%20readme.md.jpg)
+![Logo](/docs/logo-purple.jpg)
 
 # NRT Kiteboarding Club
 
@@ -6,7 +6,7 @@
 Welcome to NRT Kiteboarding Club. This club provides an outlet for all people desiring adrenalin and sport activity to get involved and give kiteboarding or paddle boarding a go. 
 This site gives some information about the club, stuf, events, basic information about kiteboarding and paddle boarding prices to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the Sign Up form.
 
-![Responsive Displays](/assets/readme.md-images/NRT-Club-Mockup%20Generator.png)
+![Responsive Displays](/docs/NRT-Club-Mockup.png)
 
 # Table of Contents
 * [UX](#ux "UX")
@@ -80,11 +80,9 @@ This site gives some information about the club, stuf, events, basic information
 * I expect screen size not to affect the quality of the website.
 * I expect all information to be correct and accurate.
 
-\
-&nbsp;
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
 
 ## Design Choices
 
@@ -101,7 +99,7 @@ I have used [Canva](https://www.canva.com/ "canva") to help in the selection of 
 
 I will explain the uses of the varius colours below, starting from the left to right side.
 
-![Colour Pallet](/assets/readme.md-images/readme-file-colour-palette.png)
+![Colour Pallet](/docs/colour-palette.png)
 
 * #050833 - This colour will be used as a text colour.
 * #75E6DA - This colour will be used as a vertical navigation bar background colour and as a button background colour on banner page.
@@ -115,18 +113,17 @@ I will be building my website with a mobile first mindset using the iPhone 5/SE 
 
 | Screen Size | Device             | Breakpoint    |          
 | ----------- | ------------------ | ------------- |
-| X-Small     | portrits phones    |  320px and up |
+| X-Small     | portrait phones    |  320px and up |
 | Small       | landscape phones   |  576px and up |
 | Medium      | tablets            |  768px and up |        
 | Large       | desktops           |  992px and up |        
 | X-Large     | large desktops     | 1200px and up |
 | XX-Large    | larger desktops    | 1400px and up |
 
-\
-&nbsp;
+
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
 
 
 # Features
@@ -137,11 +134,11 @@ I will be building my website with a mobile first mindset using the iPhone 5/SE 
 
 The navigation bar is position vertical with bar icon and fully responsive to allow for various screen sizes. It includes links to manover around the site easily.
 
-   ![Navigation Bar Icon](/assets/readme.md-images/nav-bar.png)
-   ![Vertical Open Nav Bar](/assets/readme.md-images/nav-bar-open.png)
+   ![Navigation Bar Icon](/docs/nav-bar.png)
+   ![Vertical Open Nav Bar](/docs/nav-bar-open.png)
     
-\
-&nbsp;
+
+
 [Back to Top](#table-of-contents)
 
 ### Banner Page
@@ -150,72 +147,67 @@ The navigation bar is position vertical with bar icon and fully responsive to al
     - The image gives the user instant knowledge of what is involved in the club, and with added vertical nav bar icon draws their eye to the site.
     - The text gives instant information to the user on what the club is. With the added button underneath the title with background photo, it makes the user keep interest.
     - The purple logo is in the top left corner on the banner page. 
-    \
-    &nbsp;
+    
 
-    ![Banner Page](/assets/readme.md-images/banner-page-readme.png)
 
-\
-&nbsp;
+    ![Banner Page](/docs/banner-page.png)
+
+
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
+
 
 ### About Us Section
 
 + The about us section gives a brief description about the club.
 + Welcoming you as a user to our club.
 + The about us section gives a brief introduction to the user on what NRT Kiteboarding Club is and how to easly contact the club.
-    \
-    &nbsp;
+    
 
-    ![About Us Section](/assets/readme.md-images/abou-us-readme.png)
-    \
-    &nbsp;
 
-+ To speed up user interation, there is a *'Join Us'* - *'Sign Up'* button that directly links to the sign up form page. This buttons has a hover effect on it, in the form of an animation to allow the user to know that it is something to be pressed.
-    \
-    &nbsp;
+    ![About Us Section](/docs/abou-us.png)
+    
 
-    ![Join Us Button]
-    ![Sign Up Button]
 
-\
-&nbsp;
++ To speed up user interation, there is a ***Join Us*** - ***Sign Up*** button that directly links to the sign up form page. This buttons has a hover effect on it, in the form of an animation to allow the user to know that it is something to be pressed.
+    
+
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
+
 
 ### Features Section
 
 + The features section gives a brief description of the kiteboarding club with the adition of a character showing the user about NRT Kiteboarding stuff, course prices and booking with icons on left side just before paragraph and photo of the beach on the right side of the features section. It is also responsive to suit the different screen sizes.
-    \
-    &nbsp;
+    
 
-    ![Features Section](/assets/readme.md-images/features-readme.png)
+
+    ![Features Section](/docs/features-section.png)
     
     
-\
-&nbsp;
+
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
+
 
 ### Events Section
 
 + This is where the most upcoming club events are shown. It includes photos with hover effect when user hover over photo text appear to quickly show if it is a social or a race event to the user. Also, on the smaller screen sizes it includes different photo style to break up the screen.
-    \
-    &nbsp;
+    
 
-    ![Events Section](/assets/readme.md-images/events-readme.png)
+
+    ![Events Section](/docs/events-section.png)
 
    
 
-\
-&nbsp;
+
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
+
 
 ### Contact Section
 
@@ -224,58 +216,53 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 + The contact section contains the icons for opening hour text on the left side and location, email and phone number related to NRT on the right side.
 
 + It also contains vector image in the background of the title for contact section.
-    \
-    &nbsp;
+    
 
-    ![Contact Section](/assets/readme.md-images/contact-section-readme.png)
-    \
-    &nbsp;
 
-\
-&nbsp;
+    ![Contact Section](/docs/contact-section.png)
+    
+
+
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
+
 
 ### Footer
 
 + The footer contains the social media links related to NRT and the copyright text. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to the site.
-    \
-    &nbsp;
+    
 
-    ![Footer](/assets/readme.md-images/footer-readme.png)
-    \
-    &nbsp;
+
+    ![Footer](/docs/footer.png)
+    
+
 
 + There is also a hover effect over the links, again to improve user experiance.
-    \
-    &nbsp;
-
     
-    \
-    &nbsp;
+
 
 ### Sign Up Form Page
 
 + The signup.html page contains background cover photo, title with paragraph and sign up form for potential new user.
-    \
-    &nbsp;
+    
 
-    ![Sign Up Page](/assets/readme.md-images/signup-page-readme.png)
-    \
-    &nbsp;
+
+    ![Sign Up Page](/docs/signup-page.png)
+    
+
 
 + There is also logo in top left corner in different colour to match the background cover photo and icon nav bar in top right corner to allow user to go back on banner page.
 
 ### contact.html Page
 
 + The contact.html page contains message received title and paragraph with purple logo in top left corner, aso there is arrow pointing left for home page.
-    \
-    &nbsp;
+    
 
-    ![contact.html Page](/assets/readme.md-images/contact.html-page-readme.png)
-    \
-    &nbsp;
+
+    ![contact.html Page](/docs/contact.html-page.png)
+    
+
 
 ## Features to be Implemented
 
@@ -285,11 +272,10 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 + Add a shop for club clothing to be purchased.
 + Add a library of structured workouts for all activities.
 
-\
-&nbsp;
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
+
 
 # Technologies used
 
@@ -307,24 +293,21 @@ The navigation bar is position vertical with bar icon and fully responsive to al
 * [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML")
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS")
 * [Codepen](https://codepen.io/ "Codepen")
-* [Bootstrap](https://getbootstrap.com "Bootstrap")
 * [Canva](https://www.canva.com/ "canva")
-* [Font Awesome library](https://fontawesome.com/ "Font Awesome")
-* [Google Fonts](https://fonts.google.com/ "Google Fonts")
 * [Pixabay](https://pixabay.com/ "Pixabay")
 * [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/ "html-css-js.com")
 
-\
-&nbsp;
+
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
+
 
 # Testing
 
 I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the sign up form or social media simply. The content is simple and to the point and the site is not overcrowded as to put the user off.
-\
-&nbsp;
+
+
 
 I have encountered several issues during testing.
 + I initially decided to create the site with an x-large screen size then on smaller screen had issues with some sections.
@@ -337,10 +320,10 @@ I have encountered several issues during testing.
 + When I was validating HTML code, I had 14 errors showing. All issues were related to alt atribute for images and space between image file path in html file the rest of code had no errors.
   The results of my validation for HTML and CSS are below. 
 
-    - HTML (index.html) validator [results](/assets/readme.md-images/W3C%20html%20validator.png "W3C HTML")
-    - HTML (signup.html) validator [results](/assets/readme.md-images/signup-W3C-validator.png "W3C HTML")
-    - HTML (contact.html) validator [results](/assets/readme.md-images/contact.html-page-W3C-readme.png "W3C HTML")
-    - CSS validator [results](/assets/readme.md-images/css-W3C-validator.png "W3C CSS")
+    - HTML (index.html) validator [results](/docs/index.html-W3C-validator.png "W3C HTML")
+    - HTML (signup.html) validator [results](/docs/signup-W3C-validator.png "W3C HTML")
+    - HTML (contact.html) validator [results](/docs/contact.html-page-W3C-readme.png "W3C HTML")
+    - CSS validator [results](/docs/css-W3C-validator.png "W3C CSS")
 
 
 # Unfixed Bugs
@@ -359,11 +342,10 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 + Now the website is now live on https://jureseselj.github.io/nrt-kiteboarding-club/
 + If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
 
-\
-&nbsp;
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
+
+
 
 
 # Credits
@@ -379,9 +361,7 @@ For content and style inspiration,
 * [Neretva Kiteboarding](https://neretvakiteboarding.com/ "Neretva Kiteboarding")
 * [Pure Magic](https://puremagic.ie/ "Pure Magic")
 
-\
-&nbsp;
+
+
 [Back to Top](#table-of-contents)
-\
-&nbsp;
 
