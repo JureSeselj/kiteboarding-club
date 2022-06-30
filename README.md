@@ -330,6 +330,8 @@ I have encountered several issues during testing.
 
 There still might be an issue with position of the map on different screen sizes of contact section and also with position of the button on banner page.
 
+There is an issue with logo for some reason, it supose to lead to home page on click and it worked well on the live server but after a push to gitHub it dose not work as expected.
+
 
 # Deployment
 
